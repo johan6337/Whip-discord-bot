@@ -35,7 +35,7 @@ async def ch(ctx, username: str = "h4n13"):
                 category = ""
                 if isinstance(item, dict):
                     category = str(item.get("category", ""))
-                if category.strip().lower() == "ctf archived":
+                if category == "CTF Archive":
                     continue
                 count += 1
             return str(count)
@@ -107,7 +107,7 @@ async def ch(ctx, username: str = "h4n13"):
             field_name = f"**{i+1}.{entry['name']}**"
             field_value = (
                 f"👤 Profile: **[{entry['name']}]({entry['url']})**\n"
-                f"🏆 Rank {entry['rank_text']}\n"
+                f"🏆 Rank **{entry['rank_text']}**\n"
                 f"⭐ Score **{entry['score_text']} / 16655**\n"
                 f"✅ Solves **{entry['solves_text']} / 233**\n\n\n\n"
             )
@@ -142,8 +142,8 @@ async def ch(ctx, username: str = "h4n13"):
     solves = format_solves(data)
 
     embed.add_field(name="🏆 Rank", value=f"#{rank}", inline=False)
-    embed.add_field(name="⭐ Score", value=f"{score}", inline=False)
-    embed.add_field(name="✅ Solves", value=f"{solves}", inline=False)
+    embed.add_field(name="⭐ Score", value=f"{score} / 16655", inline=False)
+    embed.add_field(name="✅ Solves", value=f"{solves} / 233", inline=False)
     embed.set_thumbnail(url="https://cryptohack.org/static/img/logo_4.png")
 
     await loading_msg.edit(content="", embed=embed)
@@ -208,8 +208,8 @@ async def rootme(ctx, username: str):
 
     if score != "N/A":
         embed = discord.Embed(title=f"{username}", url=url, color=0xff4b4b)
-        embed.add_field(name="⭐ Score", value=f"{score}", inline=True)
-        embed.add_field(name="✅ Solves", value=f"{solved} / {total}", inline=True)
+        embed.add_field(name="⭐ Score", value=f"{score}", inline=False)
+        embed.add_field(name="✅ Solves", value=f"{solved} / {total}", inline=False)
         embed.set_thumbnail(url="https://www.root-me.org/squelettes/img/rblackGrand32.png")
         
         await loading_msg.edit(content="", embed=embed)

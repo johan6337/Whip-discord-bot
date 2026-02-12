@@ -1,0 +1,1298 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js" lang="en" xml:lang="en">
+<head>
+<title>profil of jitensha69   : Score [Root Me : Hacking and Information Security learning platform]</title>
+<meta name="Description" content="profil of jitensha69   : Score"/>
+<meta name="keywords" content="jitensha69,   Score"/>
+<meta name="author" content="jitensha69"/>
+<link rel="alternate" type="application/rss+xml" title="RSS [Root Me : Hacking and Information Security learning platform]" href="https://www.root-me.org?page=backend&amp;lang=en" />
+<link rel="alternate" type="application/rss+xml" title="RSS (breves) [Root Me : Hacking and Information Security learning platform]" href="https://www.root-me.org?page=backend-breves&amp;lang=en" />
+<link rel="alternate" type="application/rss+xml" title="RSS Forum [Root Me : Hacking and Information Security learning platform]" href="https://www.root-me.org?page=backend-forums&amp;lang=en" />
+<link rel="alternate" type="application/rss+xml" title="RSS challenges [Root Me : Hacking and Information Security learning platform]" href="https://www.root-me.org?page=backend-challenges&amp;lang=en" />
+<link rel="alternate" type="application/rss+xml" title="RSS solutions [Root Me : Hacking and Information Security learning platform]" href="https://www.root-me.org?page=backend-solutions&amp;lang=en" />
+<link rel="alternate" type="application/rss+xml" title="RSS CTF all the day [Root Me : Hacking and Information Security learning platform]" href="https://www.root-me.org?page=backend-ctfalltheday&amp;lang=en" />
+<link rel="alternate" type="application/rss+xml" title="RSS CTF calendar [Root Me : Hacking and Information Security learning platform]" href="https://www.root-me.org?page=backend-ctf&amp;lang=en" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />            
+<meta name="color-scheme" content="light dark"/>
+<link rel='stylesheet' href='local/cache-css/45a4eea956b04d1bdfa863b3692d6768.css?1757808240' type='text/css' />    
+<script type="text/javascript">/* <![CDATA[ */
+var mediabox_settings={"auto_detect":true,"ns":"box","tt_img":true,"sel_g":"#documents_portfolio a[type='image\/jpeg'],#documents_portfolio a[type='image\/png'],#documents_portfolio a[type='image\/gif']","sel_c":".mediabox, .popin","str_ssStart":"Slideshow","str_ssStop":"Stop","str_cur":"{current}\/{total}","str_prev":"Previous","str_next":"Next","str_close":"Close","str_loading":"Loading\u2026","str_petc":"Press \u2019Esc\u2019 to close","str_dialTitDef":"Dialogue box","str_dialTitMed":"Media display","splash_url":"","colorbox":{"skin":"black-striped","transition":"elastic","speed":"100","maxWidth":"90%","maxHeight":"90%","minWidth":"400px","minHeight":"","slideshow_speed":"2500","opacite":"0.8"}};
+/* ]]> */</script>
+<!-- insert_head_css -->
+<script type='text/javascript'>
+var jQl={q:[],dq:[],gs:[],ready:function(a){"function"==typeof a&&jQl.q.push(a);return jQl},getScript:function(a,c){jQl.gs.push([a,c])},unq:function(){for(var a=0;a<jQl.q.length;a++)jQl.q[a]();jQl.q=[]},ungs:function(){for(var a=0;a<jQl.gs.length;a++)jQuery.getScript(jQl.gs[a][0],jQl.gs[a][1]);jQl.gs=[]},bId:null,boot:function(a){"undefined"==typeof window.jQuery.fn?jQl.bId||(jQl.bId=setInterval(function(){jQl.boot(a)},25)):(jQl.bId&&clearInterval(jQl.bId),jQl.bId=0,jQl.unqjQdep(),jQl.ungs(),jQuery(jQl.unq()), "function"==typeof a&&a())},booted:function(){return 0===jQl.bId},loadjQ:function(a,c){setTimeout(function(){var b=document.createElement("script");b.src=a;document.getElementsByTagName("head")[0].appendChild(b)},1);jQl.boot(c)},loadjQdep:function(a){jQl.loadxhr(a,jQl.qdep)},qdep:function(a){a&&("undefined"!==typeof window.jQuery.fn&&!jQl.dq.length?jQl.rs(a):jQl.dq.push(a))},unqjQdep:function(){if("undefined"==typeof window.jQuery.fn)setTimeout(jQl.unqjQdep,50);else{for(var a=0;a<jQl.dq.length;a++)jQl.rs(jQl.dq[a]); jQl.dq=[]}},rs:function(a){var c=document.createElement("script");document.getElementsByTagName("head")[0].appendChild(c);c.text=a},loadxhr:function(a,c){var b;b=jQl.getxo();b.onreadystatechange=function(){4!=b.readyState||200!=b.status||c(b.responseText,a)};try{b.open("GET",a,!0),b.send("")}catch(d){}},getxo:function(){var a=!1;try{a=new XMLHttpRequest}catch(c){for(var b=["MSXML2.XMLHTTP.5.0","MSXML2.XMLHTTP.4.0","MSXML2.XMLHTTP.3.0","MSXML2.XMLHTTP","Microsoft.XMLHTTP"],d=0;d<b.length;++d){try{a= new ActiveXObject(b[d])}catch(e){continue}break}}finally{return a}}};if("undefined"==typeof window.jQuery){var $=jQl.ready,jQuery=$;$.getScript=jQl.getScript};
+jQl.loadjQ('local/cache-js/803f5d23aa85db0531d2955250e9c4a9.js?1763111203')
+</script>
+<!-- insert_head -->
+<script>jQl.loadjQ("https://www.root-me.org/local/cache-js/jsdyn-script_onload_js-6a33d0f2.js?1763110687");</script>
+<script  defer src="https://www.googletagmanager.com/gtag/js?id=G-SRYSKX09J7"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-SRYSKX09J7', { 'anonymize_ip': true });
+</script>        
+<link rel="icon" type="image/x-icon" href="https://www.root-me.org/squelettes/img/rblack.ico?1448449194" />
+<link rel="icon" type="image/png" href="https://www.root-me.org/squelettes/img/rblackGrand32.png?1556531825" sizes="32x32" />
+<link rel="icon" type="image/png" href="https://www.root-me.org/squelettes/img/rblackGrand16.png?1556531831" sizes="16x16" />   
+</head>
+<body class="antialiased hide-extras" dir="ltr" itemscope itemtype="https://schema.org/ProfilePage">
+<header id="header" role="banner">
+<nav class="top-bar" data-topbar>
+<ul class="title-area" itemprop="isPartOf" itemscope itemtype="https://schema.org/WebSite">
+<li class="name">
+<a itemprop="url" href="https://www.root-me.org?lang=en" title="challenge your hacking skills" target="_top">
+<img width="48" height="48" class="show-for-medium-up vmiddle invert" alt="logo https://www.root-me.org" src="IMG/logo/siteon0.svg?1637496509" itemprop="image"  />
+<img width="48" height="48" class="show-for-small-only toggleSidebar vmiddle" alt="logo https://www.root-me.org" src="IMG/logo/siteon0.svg?1637496509" itemprop="image" />
+<span class="show-for-large-up blanc" itemprop="name">Root&nbsp;Me</span>
+</a>
+</li>    
+</ul>
+<section class="top-bar-section">
+<ul class="right">    
+<li class="lang">
+<span>
+<span>
+<a id="url_fr" href="jitensha69?inc=score&amp;lang=fr" title="fran&#231;ais"><img class="vmiddle" src="squelettes/img/pays/fr.svg" alt="fran&#231;ais" height="16" width="16"/></a>
+<a id="url_de" href="jitensha69?inc=score&amp;lang=de" title="Deutsch"><img class="vmiddle" src="squelettes/img/pays/de.svg" alt="Deutsch" height="16" width="16"/></a>
+<a id="url_es" href="jitensha69?inc=score&amp;lang=es" title="Espa&#241;ol"><img class="vmiddle" src="squelettes/img/pays/es.svg" alt="Espa&#241;ol" height="16" width="16"/></a>
+<a id="url_ru" href="jitensha69?inc=score&amp;lang=ru" title="&#1088;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;"><img class="vmiddle" src="squelettes/img/pays/ru.svg" alt="&#1088;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;" height="16" width="16"/></a>
+<a id="url_zh" href="jitensha69?inc=score&amp;lang=zh" title="&#20013;&#25991;"><img class="vmiddle" src="squelettes/img/pays/zh.svg" alt="&#20013;&#25991;" height="16" width="16"/></a>
+</span>
+<a href="#"><img width="16" height="16" src="squelettes/img/pays/en.svg" alt="en" class="grayscale" title="in"/></a>
+</span>
+</li>
+<li>
+<a style="height: 24px; padding: 10px 10px 0 10px;" class="mediabox pageajax boxHeight-620px" data-box-type="ajax" href="./?page=identifiants&amp;lang=en" title="Create an account"><img src="squelettes/img/register.svg" height="16" width="16" alt="0x0" class="vtop"/></a>
+<a style="height: 24px; padding: 15px 10px 0 10px;" class="mediabox pageajax boxHeight-390px" data-box-type="ajax" href="./?page=login&amp;lang=en" title="Connect"><img src="squelettes/img/login.svg" height="16" width="16" alt="0x0" class="vtop"/></a>
+</li>            </ul>   
+<ul class="left">
+<li class="hide-for-small-only"><a title="Frequently Asked Questions" href="https://www.root-me.org?page=faq&amp;lang=en"><img src='squelettes/img/faq_nb.svg?1566640929' alt='faq' width='32' height='32' /></a></li>
+<li class="hide-for-small-only"><a title="Site Map" href="https://www.root-me.org?page=plan&amp;lang=en"><img src='squelettes/img/plan_nb.svg?1566640893' alt='plan' width='32' height='32' /></a></li>
+<li class="hide-for-small-only"><a title="Contact" href="https://www.root-me.org?page=contact&amp;lang=en"><img src='squelettes/img/contact_nb.svg?1566640717' alt='contact' width='32' height='32' /></a></li>
+<li class="hide-for-small-only"><a title="Services state" href="https://www.root-me.org?page=structure&amp;inc=inclusions%2Fservices&amp;lang=en"><img src="squelettes/img/service_state_nb.svg" width="32" height="32" alt="services" /></a></li>
+<li class="hide-for-small-only"><a title="Shop" href="https://shop.root-me.org"><img src="squelettes/img/shop_nb.svg" alt="shop" width="32" height="32"/></a></li>            
+<li class="search">
+<form action="https://www.root-me.org" method="get">
+<input type="hidden" value="recherche" name="page"/>
+<input type="hidden" value="en" name="lang" />                    
+<input class="search" name="recherche" placeholder="Search" minlength="3" type="search" />
+</form>
+</li>
+</ul>
+</section>
+</nav>
+</header>
+<div id="container">
+<div id="main_row">
+<div id="aside_wrapper">
+<aside id="aside" role="complementary" itemscope itemtype="https://schema.org/WPSideBar">
+<nav class="top-bar" data-topbar="" >
+<div class="top-bar-section" role="navigation" itemprop="hasPart" itemscope itemtype="https://schema.org/SiteNavigationElement">
+<ul class="right">
+<li class="has-dropdown">
+<a itemprop="url" href="en/Capture-The-Flag/">
+<span class="logo left">
+<img  class="grayscale grayscale_hoveroff" src="IMG/logo/rubon188.svg?1637496499" width="16" height="16" alt="0x0"/>
+</span>
+<span class="hide-for-medium-only">Capture The Flag</span>
+</a>
+<ul class="dropdown">
+<li class="show-for-medium-only first">Capture The Flag</li>
+<li class="hide-for-small-only">
+<a class="smenu" href="en/Capture-The-Flag/Calendar/" title="The CTF calendar is coming soon. Don&#039;t hesitate to inform us about those we forgot by sending a message on the Contact page! "  itemprop="url">
+<img src='IMG/logo/rubon195.svg?1637496499' alt='Calendar' width='16' height='16' class='vmiddle grayscale grayscale_hoveroff' />
+Calendar
+</a>
+</li>
+<li class="hide-for-small-only">
+<a class="smenu" href="en/Capture-The-Flag/CTF-all-the-day/" title="Improve your hacking skills in a realistic environment where the goal is to fully compromise, &#171; root &#187; the host !"  itemprop="url">
+<img src='IMG/logo/rubon196.svg?1637496499' alt='CTF all the day' width='16' height='16' class='vmiddle grayscale grayscale_hoveroff' />
+CTF all the day
+</a>
+</li>
+</ul>
+</li>
+<li class="has-dropdown">
+<a itemprop="url" href="en/Challenges/">
+<span class="logo left">
+<img  class="grayscale grayscale_hoveroff" src="IMG/logo/rubon5.svg?1637496507" width="16" height="16" alt="0x0"/>
+</span>
+<span class="hide-for-medium-only">Challenges</span>
+</a>
+<ul class="dropdown">
+<li class="show-for-medium-only first">Challenges</li>
+<li class="hide-for-small-only">
+<a class="smenu" href="en/Challenges/App-Script/" title="Exploit environment weaknesses, configuration mistakes and vulnerability patterns in scripts and systems."  itemprop="url">
+<img src='IMG/logo/rubon189.svg?1637496499' alt='App - Script' width='16' height='16' class='vmiddle grayscale grayscale_hoveroff' />
+App - Script
+</a>
+</li>
+<li class="hide-for-small-only">
+<a class="smenu" href="en/Challenges/App-System/" title="These challenges will help you understand applicative vulnerabilities."  itemprop="url">
+<img src='IMG/logo/rubon203.svg?1637496500' alt='App - System' width='16' height='16' class='vmiddle grayscale grayscale_hoveroff' />
+App - System
+</a>
+</li>
+<li class="hide-for-small-only">
+<a class="smenu" href="en/Challenges/Cracking/" title="Reverse binaries and crack executables."  itemprop="url">
+<img src='IMG/logo/rubon69.svg?1637496508' alt='Cracking' width='16' height='16' class='vmiddle grayscale grayscale_hoveroff' />
+Cracking
+</a>
+</li>
+<li class="hide-for-small-only">
+<a class="smenu" href="en/Challenges/Cryptanalysis/" title="Break encryption algorithms"  itemprop="url">
+<img src='IMG/logo/rubon18.svg?1637496499' alt='Cryptanalysis' width='16' height='16' class='vmiddle grayscale grayscale_hoveroff' />
+Cryptanalysis
+</a>
+</li>
+<li class="hide-for-small-only">
+<a class="smenu" href="en/Challenges/Forensic/" title="Train digital investigation skills by analyzing memory dumps, log files, network captures..."  itemprop="url">
+<img src='IMG/logo/rubon208.svg?1637496500' alt='Forensic' width='16' height='16' class='vmiddle grayscale grayscale_hoveroff' />
+Forensic
+</a>
+</li>
+<li class="hide-for-small-only">
+<a class="smenu" href="en/Challenges/Network/" title="Investigate captured traffic, network services and perform packet analysis"  itemprop="url">
+<img src='IMG/logo/rubon182.svg?1637496499' alt='Network' width='16' height='16' class='vmiddle grayscale grayscale_hoveroff' />
+Network
+</a>
+</li>
+<li class="hide-for-small-only">
+<a class="smenu" href="en/Challenges/Programming/" title="Automate tasks and build shellcodes."  itemprop="url">
+<img src='IMG/logo/rubon17.svg?1637496498' alt='Programming' width='16' height='16' class='vmiddle grayscale grayscale_hoveroff' />
+Programming
+</a>
+</li>
+<li class="hide-for-small-only">
+<a class="smenu" href="en/Challenges/Realist/" title="Realistic challenges."  itemprop="url">
+<img src='IMG/logo/rubon70.svg?1637496509' alt='Realist' width='16' height='16' class='vmiddle grayscale grayscale_hoveroff' />
+Realist
+</a>
+</li>
+<li class="hide-for-small-only">
+<a class="smenu" href="en/Challenges/Steganography/" title="The art of hiding information in a document. "  itemprop="url">
+<img src='IMG/logo/rubon67.svg?1637496507' alt='Steganography' width='16' height='16' class='vmiddle grayscale grayscale_hoveroff' />
+Steganography
+</a>
+</li>
+<li class="hide-for-small-only">
+<a class="smenu" href="en/Challenges/Web-Client/" title="Client-side technologies implemented in the web browser"  itemprop="url">
+<img src='IMG/logo/rubon16.svg?1637496498' alt='Web - Client' width='16' height='16' class='vmiddle grayscale grayscale_hoveroff' />
+Web - Client
+</a>
+</li>
+<li class="hide-for-small-only">
+<a class="smenu" href="en/Challenges/Web-Server/" title="Discover the mechanisms, protocols and technologies used on the Internet and learn to abuse them!"  itemprop="url">
+<img src='IMG/logo/rubon68.svg?1637496507' alt='Web - Server' width='16' height='16' class='vmiddle grayscale grayscale_hoveroff' />
+Web - Server
+</a>
+</li>
+</ul>
+</li>
+<li class="has-dropdown">
+<a itemprop="url" href="en/Community/">
+<span class="logo left">
+<img  class="grayscale grayscale_hoveroff" src="IMG/logo/rubon19.svg?1714487248" width="16" height="16" alt="0x0"/>
+</span>
+<span class="hide-for-medium-only">Community</span>
+</a>
+<ul class="dropdown">
+<li class="show-for-medium-only first">Community</li>
+<li class="hide-for-small-only">
+<a class="smenu" href="en/Community/Contribute/" title="You have computer security or hacking skills? Join us and help grow the community! Don&#039;t hesitate ;-)"  itemprop="url">
+<img src='IMG/logo/rubon175.svg?1637496498' alt='Contribute' width='16' height='16' class='vmiddle grayscale grayscale_hoveroff' />
+Contribute
+</a>
+</li>
+<li class="hide-for-small-only">
+<a class="smenu" href="en/Community/Talk/" title="Several communication channels are at your disposal to exchange with other users of the platform."  itemprop="url">
+<img src='IMG/logo/rubon388.svg?1647250612' alt='Talk' width='16' height='16' class='vmiddle grayscale grayscale_hoveroff' />
+Talk
+</a>
+</li>
+</ul>
+</li>
+<li class="has-dropdown">
+<a itemprop="url" href="en/Information/">
+<span class="logo left">
+<img  class="grayscale grayscale_hoveroff" src="IMG/logo/rubon106.svg?1637496496" width="16" height="16" alt="0x0"/>
+</span>
+<span class="hide-for-medium-only">Information</span>
+</a>
+<ul class="dropdown">
+<li class="show-for-medium-only first">Information</li>
+<li class="hide-for-small-only">
+<a class="smenu" href="en/Information/Discovered-Weaknesses/" title="As on any information system, some weaknesses were identified on the website."  itemprop="url">
+<img src='IMG/logo/rubon111.svg?1637496496' alt='Discovered Weaknesses' width='16' height='16' class='vmiddle grayscale grayscale_hoveroff' />
+Discovered Weaknesses
+</a>
+</li>
+<li class="hide-for-small-only">
+<a class="smenu" href="en/Information/Sponsors/" title="Here are the companies and institutions that allow the foundation to continue offering more and more content! For more information on becoming a Sponsor or Partner, contact [Root-Me PRO-&gt;https://pro.root-me.org/?lang=en]. "  itemprop="url">
+<img src='IMG/logo/rubon201.svg?1637496500' alt='Sponsors' width='16' height='16' class='vmiddle grayscale grayscale_hoveroff' />
+Sponsors
+</a>
+</li>
+<li class="hide-for-small-only">
+<a class="smenu" href="en/Information/The-foundation/" title="Root-Me is a non-profit organization which goal is to promote the spread of knowledge related to hacking and information security."  itemprop="url">
+<img src='IMG/logo/rubon107.svg?1637496496' alt='The foundation' width='16' height='16' class='vmiddle grayscale grayscale_hoveroff' />
+The foundation
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</nav>
+<div class="small-12 columns hide-for-medium-only">
+<h3>501 visitors now</h3>
+Newest members&nbsp;:
+<ul class="inline-list ts">
+<li><a class=" txt_6forum"  title="profil of web spider" href="/web-spider?lang=en">web spider</a></li>
+<li><a class=" txt_6forum"  title="profil of julien" href="/julien-1078508?lang=en">julien</a></li>
+<li><a class=" txt_6forum"  title="profil of cobrahlan_hack" href="/cobrahlan_hack?lang=en">cobrahlan_hack</a></li>
+<li><a class=" txt_6forum"  title="profil of Alpha" href="/Alpha-1078506?lang=en">Alpha</a></li>
+<li><a class=" txt_6forum"  title="profil of beudi" href="/beudi-1078503?lang=en">beudi</a></li>
+<li><a class=" txt_6forum"  title="profil of slowzy" href="/spip.php?auteur1078500&amp;lang=en">slowzy</a></li>
+<li><a class=" txt_6forum"  title="profil of Steven" href="/Steven-1078497?lang=en">Steven</a></li>
+</ul>     
+<div class='ajaxbloc' data-ajax-env='iUJ5PeKg87R8uIHmaisjvQl60CwbaARhclr/Ird/iX0HF5/A8wPSqYE3MdFNxrjIUPNMsG4wjhNeLH5SaSWsfVUvSUBqPeAr0xyV6Sr1cDXC+ZDmSJVJ6m9jejx+xyejihRpU/ySkVAOGkEWBO7FiB2PlGzw9A1u4UkOjNKZGsQAM2rae26y3Fzeii0c9os25AOOL2TsJRRDbmYzEzY9c+C41tXx5XDW' data-origin="jitensha69?inc=score&amp;lang=en">
+<h3>Offers</h3>
+<a id='pagination_offres' class='pagination_ancre'></a>
+<ul>
+<li>
+<a href="https://pro.root-me.org/" title="ROOT-ME PRO" target="_BLANK"><span style="background: white; border-radius: 3px;width:24px; height: 24px; line-height: 32px; padding: 2px; margin:2px;"><img class="vmiddle" src="https://console.pro.root-me.org/IMG/logo/organisationon33.png?1678276526" alt="organisation_logo" style="width: 20px; height:20px; object-fit: cover;" /></span></a>&nbsp;<span class="gras txs">CDI</span>&nbsp;<a title="ROOT-ME PRO : D&#233;veloppeur Web Fullstack confirm&#233;" class="txs" href="./?page=news&amp;inc=offre&amp;id_offre=122&amp;lang=en">Other</a>
+</li>
+<li>
+<a href="https://elysium-security.com" title="Elysium Security" target="_BLANK"><span style="background: white; border-radius: 3px;width:24px; height: 24px; line-height: 32px; padding: 2px; margin:2px;"><img class="vmiddle" src="https://console.pro.root-me.org/IMG/logo/organisationon32.png?1678276537" alt="organisation_logo" style="width: 20px; height:20px; object-fit: cover;" /></span></a>&nbsp;<span class="gras txs">CDI</span>&nbsp;<a title="Elysium Security : Tech Lead SOC / CSIRT" class="txs" href="./?page=news&amp;inc=offre&amp;id_offre=121&amp;lang=en">SOC</a>
+</li>
+<li>
+<a href="https://elysium-security.com" title="Elysium Security" target="_BLANK"><span style="background: white; border-radius: 3px;width:24px; height: 24px; line-height: 32px; padding: 2px; margin:2px;"><img class="vmiddle" src="https://console.pro.root-me.org/IMG/logo/organisationon32.png?1678276537" alt="organisation_logo" style="width: 20px; height:20px; object-fit: cover;" /></span></a>&nbsp;<span class="gras txs">CDI</span>&nbsp;<a title="Elysium Security : Consultant en cybers&#233;curit&#233; - offensif ou d&#233;fensif - confirm&#233;" class="txs" href="./?page=news&amp;inc=offre&amp;id_offre=93&amp;lang=en">Cybersecurity consultant</a>
+</li>
+</ul>
+<div class="pagination"></div>
+</div><!--ajaxbloc-->                        <h3>Sponsored by</h3>
+<ul>
+<li><a href="https://www.algosecure.fr" target="_BLANK" >Algosecure</a></li>
+<li><a href="https://www.ecole2600.com/" target="_BLANK" >École 2600</a></li>
+<li><a href="https://www.elysium-security.com/" target="_BLANK" >Elysium Security</a></li>
+<li><a href="https://public.geoide.fr" target="_BLANK" >GEOIDE</a></li>    
+<li><a href="https://www.oteria.fr/?utm_source=RootMe&utm_medium=partnership" target="_BLANK" >Oteria Cyber School</a></li>
+<li><a href="https://www.synacktiv.com" target="_BLANK" >Synacktiv</a></li>
+<li><a class="mediabox pageajax" data-box-type="ajax" href="./?page=structure&amp;inc=page-don&amp;lang=en">You&nbsp;;-)</a></li>
+</ul>        </div>
+</aside>
+</div>        <div id="main_wrapper" class="row">
+<ul id="breadcrumb" class="breadcrumbs" itemscope itemtype="https://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+<a href="https://www.root-me.org?lang=en" title="Home" itemprop="item"><span itemprop="name">Home</span></a>
+<meta itemprop="position" content="1">
+</li>
+<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+<a title="jitensha69" href="https://www.root-me.org/jitensha69?lang=en" itemprop="item"><span itemprop="name">profil of&nbsp;jitensha69</span></a>
+<meta itemprop="position" content="2">
+</li>
+</ul>            <main id="main" itemprop="about author" itemscope itemtype="https://schema.org/Person" itemid="urn:jitensha69">
+<div class='ajaxbloc' data-ajax-env='OQAVPSKx8/UzgUPEX61u5xNui5yGz3S4zV4BRUidfPZCal4Bkfs6VXvrVInoTGbgcSa2Pt1sZBH5ejMuwP0tA72cnrNwE47jFvBAz73W5CHs7U7k//iVujzyvDwgj8KbsIjqVT7XokdxzOsqvSSE+q3PuaQDAy9kzQMKL82Mbpf5yg==' data-origin="jitensha69?inc=score&amp;lang=en">
+<div class="small-12 columns" >
+<dl class="tabs" data-tab="">
+<dt></dt>
+<dd class="first">
+<a class="ajax" href="jitensha69?inc=info&amp;lang=en" title="Profile">
+Profile
+</a>
+</dd>
+<dd class="active">
+<a class="ajax" rel="nofollow" href="jitensha69?inc=score&amp;lang=en" title="Score">
+Score
+</a>
+</dd>
+<dd class="">
+<a class="ajax" rel="nofollow" href="jitensha69?inc=ctf&amp;lang=en" title="CTF all the day">
+CTF all the day
+</a>
+</dd>
+<dd class="">
+<a class="ajax" rel="nofollow" href="jitensha69?inc=statistiques&amp;lang=en" title="Statistics">
+Statistics
+</a>
+</dd> 
+<dd class="last">
+<a class="ajax" rel="nofollow" href="jitensha69?inc=contact&amp;lang=en" title="Contact">
+Contact
+</a>
+</dd>
+</dl>    
+<div class="tile" >
+<div class="t-body tb-padding">
+<div class="row">
+<div class="medium-6 columns">
+<h1 itemprop="givenName">
+<img class="vmiddle logo_auteur logo_6forum" width="96" height="96" src="IMG/logo/auton0.png?1637503221" alt="jitensha69" itemprop="image" />         
+<span class=" txt_6forum" >jitensha69</span>&nbsp;<img src="squelettes/img/pays/en.svg" alt="en" class="vmiddle" width="24" heigh="24"/>
+</h1>
+</div>
+<div class="medium-6 columns">
+<div class="row">
+<div class="small-6 medium-3 columns text-center">
+<h3><img src='squelettes/img/classement.svg?1647504561' width='24' height='24' />&nbsp;4774</h3>
+<span class="gras">Position</span>
+</div>                      
+<div class="small-6 medium-3 columns text-center">
+<h3><img src='squelettes/img/valid.svg?1566650916' width='24' height='24' />&nbsp;2400</h3>
+<span class="gras">Points</span>
+</div>
+<div class="small-6 medium-3 columns text-center">
+<h3><img src='IMG/logo/rubon5.svg?1637496507' width='24' height='24' />&nbsp;88</h3>
+<span class="gras">Challenges</span>
+</div>
+<div class="small-6 medium-3 columns text-center">
+<h3><img src='IMG/logo/rubon196.svg?1637496499' width='24' height='24' />&nbsp;0</h3>
+<span class="gras">Compromissions</span>
+</div>                      
+</div>
+</div>
+</div>
+</div>
+</div>            
+<script type="text/javascript" >
+//<![CDATA[
+$(document).ready(function() {
+$(".animated_box > ul").hide();
+$(".animated_box").css({"cursor": "pointer"}).each(function(){
+$(this).on("click",function(){
+var t=$(this);
+$(this).data('timeout', setTimeout( function () {
+if( $(".animated_box > ul").queue("fx").length < 2 && ! t.find("ul").is(':animated') ){
+t.find("ul").toggle({height: 'show'}, { queue: true, duration: 50 },function(){
+});
+}
+}, 350));
+});
+});
+});
+//]]>
+</script>
+<div class="row">
+<div  class="small-12 medium-6 columns columns" style="margin: 0;" >
+<div class="tile">
+<div class="t-body tb-padding"  style="padding:0;">
+<div class="animated_box" style="background-image: linear-gradient(40deg, #ff4b4b, #fff 30px); border-bottom-left-radius: 5px; padding: 7px 23px;">
+<h4>                       
+<div class="right c100 p0 small pourcent_0">
+<span style="background: url(IMG/logo/rubon189.svg?1637496499) no-repeat bottom; background-size:contain; height: 24px; margin-top: 12px;" class="gras">0%</span>
+<div class="slice">
+<div class="bar"></div>
+<div class="fill"></div>
+</div>
+</div>            
+<a href="en/Challenges/App-Script/" title="Exploit environment weaknesses, configuration mistakes and vulnerability patterns in scripts and systems.">App - Script</a>
+</h4>
+<span class="gris">
+<b>0</b>&nbsp;Points<br/>
+<b>0</b>&nbsp;/&nbsp;33
+</span>
+<ul class="txs" style="margin: 10px 0px 10px 10px">
+<li><a class=" rouge" href="en/Challenges/App-Script/ELF32-System-1" title="5 Points"> x&nbsp;Bash - System 1</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/sudo-weak-configuration" title="5 Points"> x&nbsp;sudo - weak configuration</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/ELF32-System-2" title="10 Points"> x&nbsp;Bash - System 2</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/LaTeX-Input" title="10 Points"> x&nbsp;LaTeX - Input</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/Powershell-Command-Injection" title="10 Points"> x&nbsp;Powershell - Command Injection</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/AppArmor-Jail-Introduction" title="15 Points"> x&nbsp;AppArmor - Jail Introduction</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/Bash-unquoted-expression-injection" title="15 Points"> x&nbsp;Bash - unquoted expression injection</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/Docker-I-am-groot" title="15 Points"> x&nbsp;Docker - I am groot</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/Perl-Command-injection" title="15 Points"> x&nbsp;Perl - Command injection</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/Powershell-SecureString" title="15 Points"> x&nbsp;Powershell - SecureString</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/Bash-cron" title="20 Points"> x&nbsp;Bash - cron</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/LaTeX-Command-execution" title="20 Points"> x&nbsp;LaTeX - Command execution</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/Python-input" title="20 Points"> x&nbsp;Python - input()</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/R-Code-Execution" title="20 Points"> x&nbsp;R&nbsp;: Code Execution</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/Powershell-Basic-jail" title="25 Points"> x&nbsp;Powershell - Basic jail</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/Python-pickle" title="25 Points"> x&nbsp;Python - pickle</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/Bash-quoted-expression-injection" title="30 Points"> x&nbsp;Bash - quoted expression injection</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/Docker-Sys-Admin-s-Docker" title="30 Points"> x&nbsp;Docker - Sys-Admin&#8217;s Docker</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/Shared-Objects-hijacking" title="30 Points"> x&nbsp;Shared Objects hijacking</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/SSH-Agent-Hijacking" title="30 Points"> x&nbsp;SSH - Agent Hijacking</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/AppArmor-Jail-Medium" title="35 Points"> x&nbsp;AppArmor - Jail Medium</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/Bash-race-condition" title="35 Points"> x&nbsp;Bash - race condition</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/Docker-Talk-through-me" title="35 Points"> x&nbsp;Docker - Talk through me</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/Python-format-string" title="35 Points"> x&nbsp;Python - format string</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/Python-PyJail-1" title="35 Points"> x&nbsp;Python - PyJail 1</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/PHP-Jail" title="40 Points"> x&nbsp;PHP - Jail</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/Python-PyJail-2" title="40 Points"> x&nbsp;Python - PyJail 2</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/Python-Jail-Exec" title="50 Points"> x&nbsp;Python - Jail - Exec</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/Javascript-Jail" title="55 Points"> x&nbsp;Javascript - Jail</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/Python-Jail-Garbage-collector" title="55 Points"> x&nbsp;Python - Jail - Garbage collector</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/Bash-Restricted-shells" title="60 Points"> x&nbsp;Bash - Restricted shells</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/Python-Eval-Is-Evil" title="60 Points"> x&nbsp;Python - Eval Is Evil</a></li>
+<li><a class=" rouge" href="en/Challenges/App-Script/Deep-learning-Malicious-model" title="70 Points"> x&nbsp;Deep learning - Malicious model</a></li>
+</ul>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+<div  class="small-12 medium-6 columns columns" style="margin: 0;" >
+<div class="tile">
+<div class="t-body tb-padding"  style="padding:0;">
+<div class="animated_box" style="background-image: linear-gradient(40deg, #ff4b4b, #fff 30px); border-bottom-left-radius: 5px; padding: 7px 23px;">
+<h4>                       
+<div class="right c100 p0 small pourcent_0">
+<span style="background: url(IMG/logo/rubon203.svg?1637496500) no-repeat bottom; background-size:contain; height: 24px; margin-top: 12px;" class="gras">0%</span>
+<div class="slice">
+<div class="bar"></div>
+<div class="fill"></div>
+</div>
+</div>            
+<a href="en/Challenges/App-System/" title="These challenges will help you understand applicative vulnerabilities.">App - System</a>
+</h4>
+<span class="gris">
+<b>0</b>&nbsp;Points<br/>
+<b>0</b>&nbsp;/&nbsp;93
+</span>
+<ul class="txs" style="margin: 10px 0px 10px 10px">
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x86-Stack-buffer-overflow-basic-1" title="5 Points"> x&nbsp;ELF x86 - Stack buffer overflow basic 1</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-Basic-heap-overflow" title="10 Points"> x&nbsp;ELF x64 - Basic heap overflow</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x86-Stack-buffer-overflow-basic-2" title="10 Points"> x&nbsp;ELF x86 - Stack buffer overflow basic 2	</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/PE32-Stack-buffer-overflow-basic" title="10 Points"> x&nbsp;PE32 - Stack buffer overflow basic</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x86-Format-string-bug-basic-1" title="15 Points"> x&nbsp;ELF x86 - Format string bug basic 1</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-Stack-buffer-overflow-basic" title="20 Points"> x&nbsp;ELF x64 - Stack buffer overflow - basic</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x86-Format-string-bug-basic-2" title="20 Points"> x&nbsp;ELF x86 - Format string bug basic 2</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x86-Race-condition" title="20 Points"> x&nbsp;ELF x86 - Race condition</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-ARM-Stack-buffer-overflow-basic" title="25 Points"> x&nbsp;ELF ARM - Stack buffer overflow - basic</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-MIPS-Stack-buffer-overflow-No-NX" title="25 Points"> x&nbsp;ELF MIPS - Stack buffer overflow - No NX</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-Double-free" title="25 Points"> x&nbsp;ELF x64 - Double free</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x86-Stack-buffer-overflow-basic-3" title="25 Points"> x&nbsp;ELF x86 - Stack buffer overflow basic 3	</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x86-Use-After-Free-basic" title="25 Points"> x&nbsp;ELF x86 - Use After Free - basic</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-ARM-Stack-Spraying" title="30 Points"> x&nbsp;ELF ARM - Stack Spraying</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-Stack-buffer-overflow-PIE" title="30 Points"> x&nbsp;ELF x64 - Stack buffer overflow - PIE</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x86-BSS-buffer-overflow" title="30 Points"> x&nbsp;ELF x86 - BSS buffer overflow</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x86-Stack-buffer-overflow-basic-4" title="30 Points"> x&nbsp;ELF x86 - Stack buffer overflow basic 4</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x86-Stack-buffer-overflow-basic-6" title="30 Points"> x&nbsp;ELF x86 - Stack buffer overflow basic 6</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF32-Format-String-Bug-Basic-3" title="35 Points"> x&nbsp;ELF x86 - Format String Bug Basic 3</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/PE32-Advanced-stack-buffer-overflow" title="35 Points"> x&nbsp;PE32 - Advanced stack buffer overflow</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-ARM-Basic-ROP" title="40 Points"> x&nbsp;ELF ARM - Basic ROP</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-MIPS-Basic-ROP" title="40 Points"> x&nbsp;ELF MIPS - Basic ROP</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-RISC-V-Intro-let-s-do-the-ROP" title="40 Points"> x&nbsp;ELF RISC-V - Intro - let&#8217;s do the ROP</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-Stack-buffer-overflow-Stack-pivot" title="40 Points"> x&nbsp;ELF x64 - Stack buffer overflow - Stack pivot</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x86-Stack-buffer-overflow-C-vtables" title="40 Points"> x&nbsp;ELF x86 - Stack buffer overflow - C++ vtables</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/PE32-Format-string-bug" title="45 Points"> x&nbsp;PE32+ Format string bug</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-Logic-bug" title="50 Points"> x&nbsp;ELF x64 - Logic bug</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x86-Bug-Hunting-Several-issues" title="50 Points"> x&nbsp;ELF x86 - Bug Hunting - Several issues</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x86-Stack-buffer-and-integer-overflow" title="50 Points"> x&nbsp;ELF x86 - Stack buffer and integer overflow</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x86-Stack-buffer-overflow-ret2dl_resolve" title="50 Points"> x&nbsp;ELF x86 - Stack buffer overflow - ret2dl_resolve</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF32-Stack-buffer-overflow-basic-5" title="50 Points"> x&nbsp;ELF x86 - Stack buffer overflow basic 5</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-Stack-buffer-overflow-advanced" title="55 Points"> x&nbsp;ELF x64 - Stack buffer overflow - advanced</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-MIPS-Format-String-Glitch" title="60 Points"> x&nbsp;ELF MIPS - Format String Glitch</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-Heap-Filling" title="60 Points"> x&nbsp;ELF x64 - Heap Filling</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF32-Information-leakage-with-Stack-Smashing-Protector" title="60 Points"> x&nbsp;ELF x86 - Information leakage with Stack Smashing Protector</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-File-Structure-Hacking" title="65 Points"> x&nbsp;ELF x64 - File Structure Hacking</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-ARM-Race-condition" title="70 Points"> x&nbsp;ELF ARM - Race condition</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-Browser-exploit-Intro" title="70 Points"> x&nbsp;ELF x64 - Browser exploit - Intro</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-Buggy-VM" title="70 Points"> x&nbsp;ELF x64 - Buggy VM</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-Heap-Safe-Linking-Bypass" title="70 Points"> x&nbsp;ELF x64 - Heap Safe-Linking Bypass</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-ret2dl_init" title="70 Points"> x&nbsp;ELF x64 - ret2dl_init</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x86-Out-of-bounds-attack-French-Paradox" title="70 Points"> x&nbsp;ELF x86 - Out of bounds attack - French Paradox</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF32-Remote-BSS-buffer-overflow" title="75 Points"> x&nbsp;ELF x86 - Remote BSS buffer overflow</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF32-Remote-Format-String-bug" title="75 Points"> x&nbsp;ELF x86 - Remote Format String bug</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/PE32-Basic-ROP" title="75 Points"> x&nbsp;PE32+ Basic ROP</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-Remote-heap-buffer-overflow-fastbin" title="80 Points"> x&nbsp;ELF x64 - Remote heap buffer overflow - tcache</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x86-Blind-remote-format-string-bug" title="80 Points"> x&nbsp;ELF x86 - Blind remote format string bug</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/LinKern-ARM-vulnerable-syscall" title="85 Points"> x&nbsp;LinKern ARM - vulnerable syscall</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/LinKern-x86-Buffer-overflow-basic-1" title="85 Points"> x&nbsp;LinKern x86 - Buffer overflow basic 1</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-Sigreturn-Oriented-Programming" title="90 Points"> x&nbsp;ELF x64 - Sigreturn Oriented Programming</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/LinKern32-Null-pointer-dereference" title="90 Points"> x&nbsp;LinKern x86 - Null pointer dereference</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-Syscall-chaining" title="95 Points"> x&nbsp;ELF x64 - Syscall chaining</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/LinKern-x64-Race-condition" title="95 Points"> x&nbsp;LinKern x64 - Race condition</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-ARM-Alphanumeric-shellcode" title="100 Points"> x&nbsp;ELF ARM - Alphanumeric shellcode</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-MIPS-URLEncoded-Format-String-bug" title="100 Points"> x&nbsp;ELF MIPS - URLEncoded Format String bug</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-Blind-SROP" title="100 Points"> x&nbsp;ELF x64 - Blind SROP</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-Heap-Hop" title="100 Points"> x&nbsp;ELF x64 - Heap Hop</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x86-Hardened-binary-1" title="100 Points"> x&nbsp;ELF x86 - Hardened binary 1</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x86-Hardened-binary-2" title="100 Points"> x&nbsp;ELF x86 - Hardened binary 2</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x86-Hardened-binary-3" title="100 Points"> x&nbsp;ELF x86 - Hardened binary 3</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x86-Hardened-binary-4" title="100 Points"> x&nbsp;ELF x86 - Hardened binary 4</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/LinKern-MIPSel-Vulnerable-ioctl-1921" title="100 Points"> x&nbsp;LinKern MIPSel - Vulnerable ioctl</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/LinKern-x64-reentrant-code" title="100 Points"> x&nbsp;LinKern x64 - reentrant code</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-ARM-Heap-format-string-bug" title="105 Points"> x&nbsp;ELF ARM - Heap format string bug</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-ARM-Format-String-bug" title="110 Points"> x&nbsp;ELF ARM - Format String bug</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-ARM-Use-After-Free" title="110 Points"> x&nbsp;ELF ARM - Use After Free</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-FILE-structure-hijacking" title="110 Points"> x&nbsp;ELF x64 - FILE structure hijacking</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-Heap-feng-shui" title="110 Points"> x&nbsp;ELF x64 - Heap feng-shui</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-Off-by-one-bug" title="110 Points"> x&nbsp;ELF x64 - Off-by-one bug</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/Hardened-binary-5" title="110 Points"> x&nbsp;ELF x86 - Hardened binary 5</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/LinKern-ARM-Stack-Overflow" title="110 Points"> x&nbsp;LinKern ARM - Stack Overflow</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/LinKern-x86-basic-ROP" title="110 Points"> x&nbsp;LinKern x86 - basic ROP </a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-ARM-Heap-Off-by-One" title="115 Points"> x&nbsp;ELF ARM - Heap Off-by-One</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-Advanced-blind-format-string-exploitation" title="115 Points"> x&nbsp;ELF x64 - Advanced blind format string exploitation</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-Remote-Heap-buffer-overflow-1" title="115 Points"> x&nbsp;ELF x64 - Remote Heap buffer overflow 1</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x86-Hardened-binary-6" title="115 Points"> x&nbsp;ELF x86 - Hardened binary 6</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x86-Hardened-binary-7" title="115 Points"> x&nbsp;ELF x86 - Hardened binary 7</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF32-Remote-stack-buffer-overflow-Hardened" title="115 Points"> x&nbsp;ELF x86 - Remote stack buffer overflow - Hardened</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/LinKern-x64-RowHammer" title="115 Points"> x&nbsp;LinKern x64 - RowHammer</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/LinKern-x64-SLUB-off-by-one" title="115 Points"> x&nbsp;LinKern x64 - SLUB off-by-one</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-ARM-Heap-buffer-overflow-Wilderness" title="120 Points"> x&nbsp;ELF ARM - Heap buffer overflow - Wilderness</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-ARM-Heap-Overflow" title="120 Points"> x&nbsp;ELF ARM - Heap Overflow</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-ARM64-Heap-Underflow" title="120 Points"> x&nbsp;ELF ARM64 - Heap Underflow</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-Seccomp-Whitelist" title="120 Points"> x&nbsp;ELF x64 - Seccomp Whitelist</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x86-Blind-ROP" title="120 Points"> x&nbsp;ELF x86 - Blind ROP</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/LinKern-x64-Memory-exploration" title="120 Points"> x&nbsp;LinKern x64 - Memory exploration</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/WinKern-x64-Advanced-stack-buffer-overflow-ROP" title="120 Points"> x&nbsp;WinKern x64 - Advanced stack buffer overflow - ROP</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/WinKern-x64-Use-After-Free" title="120 Points"> x&nbsp;WinKern x64 - Use After Free</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF64-Remote-Heap-buffer-overflow-2" title="130 Points"> x&nbsp;ELF x64 - Remote Heap buffer overflow 2</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-Advanced-Heap-Exploitation-Heap-Leakless-Fortified" title="135 Points"> x&nbsp;ELF x64 - Advanced Heap Exploitation - Heap Leakless &amp; Fortified</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-Blind-ROP" title="135 Points"> x&nbsp;ELF x64 - Blind ROP</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-x64-Browser-exploit-BitString" title="135 Points"> x&nbsp;ELF x64 - Browser exploit - BitString</a></li>
+<li><a class=" rouge" href="en/Challenges/App-System/ELF-ARM64-Multithreading" title="140 Points"> x&nbsp;ELF ARM64 - Multithreading</a></li>
+</ul>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div  class="small-12 medium-6 columns columns" style="margin: 0;" >
+<div class="tile">
+<div class="t-body tb-padding"  style="padding:0;">
+<div class="animated_box" style="background-image: linear-gradient(40deg, #77ff45, #fff 30px); border-bottom-left-radius: 5px; padding: 7px 23px;">
+<h4>                       
+<div class="right c100 p89 small pourcent_80">
+<span style="background: url(IMG/logo/rubon69.svg?1637496508) no-repeat bottom; background-size:contain; height: 24px; margin-top: 12px;" class="gras">89%</span>
+<div class="slice">
+<div class="bar"></div>
+<div class="fill"></div>
+</div>
+</div>            
+<a href="en/Challenges/Cracking/" title="Reverse binaries and crack executables.">Cracking</a>
+</h4>
+<span class="gris">
+<b>2125</b>&nbsp;Points<br/>
+<b>62</b>&nbsp;/&nbsp;70
+</span>
+<ul class="txs" style="margin: 10px 0px 10px 10px">
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-x86-0-protection" title="5 Points"> o&nbsp;ELF x86 - 0 protection</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-x86-Basic" title="5 Points"> o&nbsp;ELF x86 - Basic</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/PE-x86-0-protection" title="5 Points"> o&nbsp;PE x86 - 0 protection</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-C-0-protection" title="10 Points"> o&nbsp;ELF C++ - 0 protection</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/Godot-0-protection" title="10 Points"> o&nbsp;Godot - 0 protection</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/PE-DotNet-0-protection" title="10 Points"> o&nbsp;PE DotNet - 0 protection</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/APK-Introduction" title="15 Points"> o&nbsp;APK - Introduction</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-MIPS-Basic-Crackme" title="15 Points"> o&nbsp;ELF MIPS - Basic Crackme</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-x64-Golang-basic" title="15 Points"> o&nbsp;ELF x64 - Golang basic</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-x86-Fake-Instructions" title="15 Points"> o&nbsp;ELF x86 - Fake Instructions</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-x86-Ptrace" title="15 Points"> o&nbsp;ELF x86 - Ptrace</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/Godot-Bytecode" title="15 Points"> o&nbsp;Godot - Bytecode</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/WASM-Introduction" title="15 Points"> o&nbsp;WASM - Introduction</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/APK-Flutter-Debug" title="20 Points"> o&nbsp;APK - Flutter Debug</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-ARM-Basic-Crackme" title="20 Points"> o&nbsp;ELF ARM - Basic Crackme</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-x64-Basic-KeygenMe" title="20 Points"> o&nbsp;ELF x64 - Basic KeygenMe</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/Unity3D-Save-handling" title="20 Points"> o&nbsp;Unity3D Save handling</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/Godot-Mono" title="20 Points"> o&nbsp;Godot - Mono</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/PE-DotNet-Basic-Anti-Debug" title="20 Points"> o&nbsp;PE DotNet - Basic Anti-Debug</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/PE-DotNet-Basic-Crackme" title="20 Points"> o&nbsp;PE DotNet - Basic Crackme</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/PYC-ByteCode" title="20 Points"> o&nbsp;PYC - ByteCode</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/Basic-crackme" title="25 Points"> o&nbsp;Basic&nbsp;? crackme</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-x86-No-software-breakpoints" title="25 Points"> o&nbsp;ELF x86 - No software breakpoints</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/Lua-Bytecode" title="25 Points"> o&nbsp;Lua - Bytecode</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/MachO-x64-keygenme-or-not" title="25 Points"> o&nbsp;MachO x64 - keygenme or not</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-ARM-crackme-1337" title="30 Points"> o&nbsp;ELF ARM - crackme 1337</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-x86-CrackPass" title="30 Points"> o&nbsp;ELF x86 - CrackPass</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-x86-ExploitMe" title="30 Points"> o&nbsp;ELF x86 - ExploitMe</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-Random-Crackme" title="30 Points"> o&nbsp;ELF x86 - Random Crackme</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/GB-Basic-GameBoy-crackme" title="30 Points"> o&nbsp;GB - Basic GameBoy crackme</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/PDF-Javascript" title="30 Points"> o&nbsp;PDF - Javascript</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/PE-x86-Xor-Madness" title="30 Points"> o&nbsp;PE x86 - Xor Madness</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/Powershell-DeObfuscation" title="30 Points"> o&nbsp;Powershell DeObfuscation</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-ARM-Crypted" title="35 Points"> o&nbsp;ELF ARM - Crypted</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-x64-Crackme-automating" title="35 Points"> o&nbsp;ELF x64 - Crackme automating</a></li>
+<li><a class=" rouge" href="en/Challenges/Cracking/EVM-Bytecode" title="35 Points"> x&nbsp;EVM - Bytecode</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/Godot-3D-model" title="35 Points"> o&nbsp;Godot - 3D model</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/NRO-ARM-Switch-homebrew" title="35 Points"> o&nbsp;NRO ARM - Switch homebrew</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/PE-x86-SEHVEH" title="35 Points"> o&nbsp;PE x86 - SEHVEH</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/APK-Anti-debug" title="40 Points"> o&nbsp;APK - Anti-debug</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/Insomni-Droid" title="40 Points"> o&nbsp;APK - Insomni&#8217;Droid</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-x64-Rust-backdoor" title="40 Points"> o&nbsp;ELF x64 - Rust backdoor</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-x64-Rust-Crackme" title="40 Points"> o&nbsp;ELF x64 - Rust Crackme</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/PE-x64-UEFI-Secure-Boot" title="40 Points"> o&nbsp;PE x64 - UEFI Secure Boot</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/Root-My-Droid" title="45 Points"> o&nbsp;APK - Root My Droid</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-x64-Nanomites-Introduction" title="45 Points"> o&nbsp;ELF x64 - Nanomites - Introduction</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-x86-Anti-debug" title="45 Points"> o&nbsp;ELF x86 - Anti-debug</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/PE-DotNet-KeygenMe" title="45 Points"> o&nbsp;PE DotNet - KeygenMe</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/PE-x64-Tables-in-shambles" title="45 Points"> o&nbsp;PE x64 - Tables in shambles</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/PE-x86-AutoPE" title="45 Points"> o&nbsp;PE x86 - AutoPE</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/PYC-Self-Modifying-Byte-Code" title="45 Points"> o&nbsp;PYC - Self Modifying (Byte)Code</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/PYC-Snakeygen" title="45 Points"> o&nbsp;PYC - Snakeygen</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-x86-KeygenMe" title="50 Points"> o&nbsp;ELF x86 - KeygenMe</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/HackerMan" title="50 Points"> o&nbsp;HackerMan</a></li>
+<li><a class=" rouge" href="en/Challenges/Cracking/Unity-Mono-Basic-Game-Hacking" title="50 Points"> x&nbsp;Unity - Mono - Basic Game Hacking</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/WASM-Find-the-NPC" title="50 Points"> o&nbsp;WASM - Find the NPC</a></li>
+<li><a class=" rouge" href="en/Challenges/Cracking/PE-DotNet-Memory-Protect" title="55 Points"> x&nbsp;PE DotNet - Memory Protect</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/Bash-VM" title="60 Points"> o&nbsp;Bash - VM</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-x64-CrackMe2" title="60 Points"> o&nbsp;ELF x64 - KeyGenMe</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-x64-Anti-debug-and-equations" title="65 Points"> o&nbsp;ELF x64 - Anti-debug and equations</a></li>
+<li><a class=" rouge" href="en/Challenges/Cracking/Unity-IL2CPP-Basic-Game-Hacking" title="65 Points"> x&nbsp;Unity - IL2CPP - Basic Game Hacking</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-x64-Nanomites" title="70 Points"> o&nbsp;ELF x64 - Nanomites</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-x86-Packed" title="70 Points"> o&nbsp;ELF x86 - Packed</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/PE-x86-RunPE" title="75 Points"> o&nbsp;PE x86 - RunPE</a></li>
+<li><a class=" rouge" href="en/Challenges/Cracking/PE32-KeygenMe" title="85 Points"> x&nbsp;PE32+ - KeygenMe</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-x86-VM" title="90 Points"> o&nbsp;ELF x86 - VM</a></li>
+<li><a class=" vert" href="en/Challenges/Cracking/ELF-x64-Hidden-Control-Flow" title="100 Points"> o&nbsp;ELF x64 - Hidden Control Flow</a></li>
+<li><a class=" rouge" href="en/Challenges/Cracking/Ringgit" title="110 Points"> x&nbsp;Ringgit</a></li>
+<li><a class=" rouge" href="en/Challenges/Cracking/Voracious-Nanomites" title="110 Points"> x&nbsp;Voracious Nanomites</a></li>
+<li><a class=" rouge" href="en/Challenges/Cracking/White-Box-Cryptography-2" title="130 Points"> x&nbsp;White-Box Cryptography #2</a></li>
+</ul>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+<div  class="small-12 medium-6 columns columns" style="margin: 0;" >
+<div class="tile">
+<div class="t-body tb-padding"  style="padding:0;">
+<div class="animated_box" style="background-image: linear-gradient(40deg, #ff4b4b, #fff 30px); border-bottom-left-radius: 5px; padding: 7px 23px;">
+<h4>                       
+<div class="right c100 p15 small pourcent_0">
+<span style="background: url(IMG/logo/rubon18.svg?1637496499) no-repeat bottom; background-size:contain; height: 24px; margin-top: 12px;" class="gras">15%</span>
+<div class="slice">
+<div class="bar"></div>
+<div class="fill"></div>
+</div>
+</div>            
+<a href="en/Challenges/Cryptanalysis/" title="Break encryption algorithms">Cryptanalysis</a>
+</h4>
+<span class="gris">
+<b>110</b>&nbsp;Points<br/>
+<b>11</b>&nbsp;/&nbsp;75
+</span>
+<ul class="txs" style="margin: 10px 0px 10px 10px">
+<li><a class=" vert" href="en/Challenges/Cryptanalysis/Encoding-ASCII" title="5 Points"> o&nbsp;Encoding - ASCII</a></li>
+<li><a class=" vert" href="en/Challenges/Cryptanalysis/Encoding-UU" title="5 Points"> o&nbsp;Encoding - UU</a></li>
+<li><a class=" vert" href="en/Challenges/Cryptanalysis/Hash-DCC" title="5 Points"> o&nbsp;Hash - DCC</a></li>
+<li><a class=" vert" href="en/Challenges/Cryptanalysis/Hash-DCC2" title="5 Points"> o&nbsp;Hash - DCC2</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/Hash-LM" title="5 Points"> x&nbsp;Hash - LM</a></li>
+<li><a class=" vert" href="en/Challenges/Cryptanalysis/Hash-Message-Digest-5" title="5 Points"> o&nbsp;Hash - Message Digest 5</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/Hash-NT" title="5 Points"> x&nbsp;Hash - NT</a></li>
+<li><a class=" vert" href="en/Challenges/Cryptanalysis/Hash-SHA-2" title="5 Points"> o&nbsp;Hash - SHA-2</a></li>
+<li><a class=" vert" href="en/Challenges/Cryptanalysis/Shift-cipher" title="10 Points"> o&nbsp;Shift cipher</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/CISCO-Salted-Password" title="10 Points"> x&nbsp;CISCO - Salted Password</a></li>
+<li><a class=" vert" href="en/Challenges/Cryptanalysis/Pixel-Madness-86" title="15 Points"> o&nbsp;Pixel Madness</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/ELF64-PID-encryption" title="15 Points"> x&nbsp;ELF64 - PID encryption</a></li>
+<li><a class=" vert" href="en/Challenges/Cryptanalysis/File-PKZIP" title="15 Points"> o&nbsp;File - PKZIP</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/Monoalphabetic-substitution-Caesar" title="15 Points"> x&nbsp;Monoalphabetic substitution - Caesar</a></li>
+<li><a class=" vert" href="en/Challenges/Cryptanalysis/Circular-Bit-Shift" title="20 Points"> o&nbsp;Circular Bit Shift</a></li>
+<li><a class=" vert" href="en/Challenges/Cryptanalysis/Known-plaintext-XOR" title="20 Points"> o&nbsp;Known plaintext - XOR</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/Code-Pseudo-Random-Number-Generator" title="20 Points"> x&nbsp;Code - Pseudo Random Number Generator</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/Encoding-Codebook" title="20 Points"> x&nbsp;Encoding - Codebook</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/File-PKZIP-2" title="20 Points"> x&nbsp;File - PKZIP 2</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/File-Insecure-storage-1" title="20 Points"> x&nbsp;File - Insecure storage 1</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/Polyalphabetic-substitution-Vigenere" title="20 Points"> x&nbsp;Polyalphabetic substitution - Vigenère</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/System-Android-lock-pattern" title="20 Points"> x&nbsp;System - Android lock pattern</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/Transposition-Rail-Fence" title="20 Points"> x&nbsp;Transposition - Rail Fence</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/AES-CBC-Bit-Flipping-Attack" title="25 Points"> x&nbsp;AES - CBC - Bit-Flipping Attack</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/AES-ECB" title="25 Points"> x&nbsp;AES - ECB</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/AES-ECB-Copy-Paste" title="25 Points"> x&nbsp;AES - ECB - Copy Paste</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/DSA-Implementation-error" title="25 Points"> x&nbsp;DSA - Implementation error</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/LFSR-Known-plaintext" title="25 Points"> x&nbsp;LFSR - Known plaintext</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/RSA-Factorisation" title="25 Points"> x&nbsp;RSA - Factorisation</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/RSA-Decipher-Oracle" title="25 Points"> x&nbsp;RSA - Decipher Oracle</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/Service-Timing-attack" title="25 Points"> x&nbsp;Service - Timing attack</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/Monoalphabetic-substitution-Polybe" title="25 Points"> x&nbsp;Monoalphabetic substitution - Polybe</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/Twisted-secret" title="25 Points"> x&nbsp;Twisted secret</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/Initialisation-Vector" title="25 Points"> x&nbsp;Initialisation Vector</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/Hill-Cipher" title="30 Points"> x&nbsp;Hill Cipher</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/GEDEFU" title="30 Points"> x&nbsp;GEDEFU</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/OTP-Implementation-error" title="30 Points"> x&nbsp;OTP - Implementation error</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/RSA-Corrupted-key-1" title="30 Points"> x&nbsp;RSA - Corrupted key 1</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/RSA-Continued-fractions" title="30 Points"> x&nbsp;RSA - Continued fractions</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/RSA-Common-modulus" title="30 Points"> x&nbsp;RSA - Common modulus</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/Service-Hash-length-extension-attack" title="30 Points"> x&nbsp;Service - Hash length extension attack</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/Shamir-Secret-Sharing-Introduction" title="30 Points"> x&nbsp;Shamir Secret Sharing - Introduction</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/AES-4-Rounds" title="35 Points"> x&nbsp;AES - 4 Rounds</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/ECDSA-Introduction" title="35 Points"> x&nbsp;ECDSA - Introduction</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/ElGamal-Fault-attack-Introduction" title="35 Points"> x&nbsp;ElGamal - Fault attack (Introduction)</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/RSA-Padding" title="35 Points"> x&nbsp;RSA - Padding</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/RSA-Signature" title="35 Points"> x&nbsp;RSA - Signature</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/Shamir-Secret-Sharing-Traitor" title="35 Points"> x&nbsp;Shamir Secret Sharing - Traitor</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/AES128-CTR" title="40 Points"> x&nbsp;AES128 - CTR</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/PHP-mt_rand" title="40 Points"> x&nbsp;PHP - mt_rand</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/Discrete-logarithm-problem" title="40 Points"> x&nbsp;Discrete logarithm problem</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/RSA-Corrupted-key-2" title="40 Points"> x&nbsp;RSA - Corrupted key 2</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/RSA-Corrupted-key-3" title="40 Points"> x&nbsp;RSA - Corrupted key 3</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/RSA-Multiple-recipients" title="40 Points"> x&nbsp;RSA - Multiple recipients</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/AES-Fault-attack-1" title="50 Points"> x&nbsp;AES - Fault attack #1</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/FEAL-Differential-Cryptanalysis" title="50 Points"> x&nbsp;FEAL - Differential Cryptanalysis</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/Goldreich-Goldwasser-Halevi-Weak-Parameter" title="50 Points"> x&nbsp;Goldreich Goldwasser Halevi | Weak Parameter</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/Enigma-Machine" title="50 Points"> x&nbsp;Enigma Machine</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/Side-Channel-AES-CPA" title="50 Points"> x&nbsp;Side Channel - AES&nbsp;: CPA</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/ECDHE" title="60 Points"> x&nbsp;ECDHE</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/NTRU-Multiple-Transmission" title="60 Points"> x&nbsp;NTRU | Multiple Transmission</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/NTRU-Weak-Parameter" title="60 Points"> x&nbsp;NTRU | Weak Parameter</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/RSA-H-rabin" title="60 Points"> x&nbsp;RSA - H-rabin</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/RSA-Lee-cooper" title="60 Points"> x&nbsp;RSA - Lee cooper</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/Service-CBC-Padding" title="60 Points"> x&nbsp;Service - CBC Padding</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/Side-Channel-AES-first-round" title="60 Points"> x&nbsp;Side Channel - AES&nbsp;: first round</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/Polyalphabetic-substitution-One-Time-Pad" title="60 Points"> x&nbsp;Polyalphabetic substitution - One Time Pad</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/White-Box-Cryptography" title="60 Points"> x&nbsp;White-Box Cryptography</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/AES-Weaker-variant" title="70 Points"> x&nbsp;AES - Weaker variant</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/Shamir-Secret-Sharing-Reduction" title="70 Points"> x&nbsp;Shamir Secret Sharing - Reduction</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/Hash-SHA-3" title="75 Points"> x&nbsp;Hash - SHA-3</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/AES-Fault-attack-2" title="80 Points"> x&nbsp;AES - Fault attack #2</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/Shamir-Secret-Sharing-Irreducible" title="90 Points"> x&nbsp;Shamir Secret Sharing - Irreducible&nbsp;?</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/AES-PMAC" title="100 Points"> x&nbsp;AES-PMAC</a></li>
+<li><a class=" rouge" href="en/Challenges/Cryptanalysis/ECDSA-Implementation-error" title="100 Points"> x&nbsp;ECDSA - Implementation error</a></li>
+</ul>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div  class="small-12 medium-6 columns columns" style="margin: 0;" >
+<div class="tile">
+<div class="t-body tb-padding"  style="padding:0;">
+<div class="animated_box" style="background-image: linear-gradient(40deg, #ff4b4b, #fff 30px); border-bottom-left-radius: 5px; padding: 7px 23px;">
+<h4>                       
+<div class="right c100 p5 small pourcent_0">
+<span style="background: url(IMG/logo/rubon208.svg?1637496500) no-repeat bottom; background-size:contain; height: 24px; margin-top: 12px;" class="gras">5%</span>
+<div class="slice">
+<div class="bar"></div>
+<div class="fill"></div>
+</div>
+</div>            
+<a href="en/Challenges/Forensic/" title="Train digital investigation skills by analyzing memory dumps, log files, network captures...">Forensic</a>
+</h4>
+<span class="gris">
+<b>30</b>&nbsp;Points<br/>
+<b>2</b>&nbsp;/&nbsp;44
+</span>
+<ul class="txs" style="margin: 10px 0px 10px 10px">
+<li><a class=" vert" href="en/Challenges/Forensic/Deleted-file" title="5 Points"> o&nbsp;Deleted file</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Capture-this" title="15 Points"> x&nbsp;Capture this</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Command-Control-level-2" title="15 Points"> x&nbsp;Command &amp; Control - level 2</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/MasterKee" title="15 Points"> x&nbsp;MasterKee</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Oh-My-Grub" title="15 Points"> x&nbsp;Oh My Grub</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Docker-layers" title="20 Points"> x&nbsp;Docker layers</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Windows-LDAP-User-KerbeRoastable" title="20 Points"> x&nbsp;Windows - LDAP User KerbeRoastable</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Windows-NTDS-Secret-extraction" title="20 Points"> x&nbsp;Windows - NTDS Secret extraction</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Logs-analysis-web-attack" title="25 Points"> x&nbsp;Logs analysis - web attack</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Command-Control-level-5" title="25 Points"> x&nbsp;Command &amp; Control - level 5</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Supply-chain-attack-Docker" title="25 Points"> x&nbsp;Supply chain attack - Docker</a></li>
+<li><a class=" vert" href="en/Challenges/Forensic/Find-the-cat" title="25 Points"> o&nbsp;Find the cat</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Ugly-Duckling" title="25 Points"> x&nbsp;Ugly Duckling</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Windows-LDAP-User-ASRepRoastable" title="25 Points"> x&nbsp;Windows - LDAP User ASRepRoastable</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Active-Directory-GPO" title="30 Points"> x&nbsp;Active Directory - GPO</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Command-Control-level-3" title="30 Points"> x&nbsp;Command &amp; Control - level 3</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/DNS-exfiltration" title="30 Points"> x&nbsp;DNS exfiltration</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Open-My-Vault" title="30 Points"> x&nbsp;Open My Vault</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Web3-Put-on-your-mask-Step-1" title="30 Points"> x&nbsp;Web3 - Put on your mask - Step 1</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/C2-Mythic" title="35 Points"> x&nbsp;C2 Mythic</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Command-Control-level-4" title="35 Points"> x&nbsp;Command &amp; Control - level 4</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Job-interview" title="35 Points"> x&nbsp;Job interview</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Homemade-keylogger" title="35 Points"> x&nbsp;Homemade keylogger</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/macOS-Keychain" title="35 Points"> x&nbsp;macOS - Keychain</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Malicious-Word-macro" title="35 Points"> x&nbsp;Malicious Word macro</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Ransomware-Android" title="35 Points"> x&nbsp;Ransomware Android</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Supply-chain-attack-Python" title="35 Points"> x&nbsp;Supply chain attack - Python</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Air-gap-exfiltration" title="40 Points"> x&nbsp;Air-gap exfiltration</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/iOS-Introduction" title="40 Points"> x&nbsp;iOS - Introduction</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/The-Artist" title="40 Points"> x&nbsp;The Artist</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Multi-devices" title="45 Points"> x&nbsp;Multi-devices</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Command-Control-level-6" title="50 Points"> x&nbsp;Command &amp; Control - level 6</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Find-me" title="50 Points"> x&nbsp;Find me</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Rootkit-Cold-case" title="50 Points"> x&nbsp;Rootkit - Cold case</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Second-job-interview" title="50 Points"> x&nbsp;Second job interview</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Web3-Put-on-your-mask-Step-2" title="50 Points"> x&nbsp;Web3 - Put on your mask - Step 2</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Find-me-again" title="55 Points"> x&nbsp;Find me again</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Find-me-back" title="55 Points"> x&nbsp;Find me back</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Find-me-on-Android" title="55 Points"> x&nbsp;Find me on Android</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Zeus-Bot" title="60 Points"> x&nbsp;Zeus Bot</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Try-again" title="70 Points"> x&nbsp;Try again</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/The-Lost-Case-Mobile-Investigation" title="80 Points"> x&nbsp;The Lost Case - Mobile Investigation</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Remote-Support" title="90 Points"> x&nbsp;Remote Support</a></li>
+<li><a class=" rouge" href="en/Challenges/Forensic/Try-again-2" title="110 Points"> x&nbsp;Try again 2</a></li>
+</ul>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+<div  class="small-12 medium-6 columns columns" style="margin: 0;" >
+<div class="tile">
+<div class="t-body tb-padding"  style="padding:0;">
+<div class="animated_box" style="background-image: linear-gradient(40deg, #ff4b4b, #fff 30px); border-bottom-left-radius: 5px; padding: 7px 23px;">
+<h4>                       
+<div class="right c100 p0 small pourcent_0">
+<span style="background: url(IMG/logo/rubon17.svg?1637496498) no-repeat bottom; background-size:contain; height: 24px; margin-top: 12px;" class="gras">0%</span>
+<div class="slice">
+<div class="bar"></div>
+<div class="fill"></div>
+</div>
+</div>            
+<a href="en/Challenges/Programming/" title="Automate tasks and build shellcodes.">Programming</a>
+</h4>
+<span class="gris">
+<b>0</b>&nbsp;Points<br/>
+<b>0</b>&nbsp;/&nbsp;29
+</span>
+<ul class="txs" style="margin: 10px 0px 10px 10px">
+<li><a class=" rouge" href="en/Challenges/Programming/TCP-Back-to-school" title="5 Points"> x&nbsp;TCP - Back to school</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/TCP-Encoded-string" title="10 Points"> x&nbsp;TCP - Encoded string</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/TCP-The-Roman-wheel" title="10 Points"> x&nbsp;TCP - The Roman wheel</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/TCP-Uncompress-Me" title="15 Points"> x&nbsp;TCP - Uncompress Me</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/CAPTCHA-me-if-you-can" title="20 Points"> x&nbsp;CAPTCHA me if you can</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/Deep-Learning-Introduction" title="20 Points"> x&nbsp;Deep Learning - Introduction</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/Ethereum-Tutoreum" title="20 Points"> x&nbsp;Ethereum - Tutoreum</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/Mathematic-progression" title="20 Points"> x&nbsp;Mathematic progression</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/ELF-x64-Shellcoding-Sheep-warmup" title="25 Points"> x&nbsp;ELF x64 - Shellcoding - Sheep warmup</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/Ethereum-tx-origin" title="25 Points"> x&nbsp;Ethereum - tx.origin</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/Second-degree-polynomial-solver" title="25 Points"> x&nbsp;Second degree polynomial solver</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/Ethereum-Takeover" title="30 Points"> x&nbsp;Ethereum - Takeover</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/Various-encodings" title="30 Points"> x&nbsp;Various encodings</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/Apprentice-Scraper" title="35 Points"> x&nbsp;Apprentice Scraper</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/ARM-Shellcoding-Egg-hunter" title="35 Points"> x&nbsp;ARM - Shellcoding - Egg hunter</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/Ethereum-Bunker" title="35 Points"> x&nbsp;Ethereum - Bunker</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/Ethereum-NotSoPriv8" title="35 Points"> x&nbsp;Ethereum - NotSoPriv8</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/Adversarial-Attack-GAN" title="40 Points"> x&nbsp;Adversarial Attack - GAN</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/Deep-Learning-Captcha" title="40 Points"> x&nbsp;Deep Learning - Captcha</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/ELF-x64-Shellcoding-Polymorphism" title="40 Points"> x&nbsp;ELF x64 - Shellcoding - Polymorphism</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/Ethereum-Architect" title="40 Points"> x&nbsp;Ethereum - Architect</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/Ethereum-Reentrancy" title="40 Points"> x&nbsp;Ethereum - Reentrancy</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/Quick-Response-Code" title="40 Points"> x&nbsp;Quick Response Code</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/WinKern-x64-shellcoding-token-stealing" title="40 Points"> x&nbsp;WinKern x64 - shellcoding&nbsp;: token stealing</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/Ethereum-BadStack" title="50 Points"> x&nbsp;Ethereum - BadStack</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/ELF-x64-Sandbox-shellcoding" title="60 Points"> x&nbsp;ELF x64 - Sandbox shellcoding</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/Ethereum-King-of-the-EVM" title="60 Points"> x&nbsp;Ethereum - King of the EVM</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/ELF-x86-Shellcoding-Alphanumeric" title="65 Points"> x&nbsp;ELF x86 - Shellcoding - Alphanumeric</a></li>
+<li><a class=" rouge" href="en/Challenges/Programming/Adversarial-Attack-Prison-Break" title="100 Points"> x&nbsp;Adversarial Attack - Prison Break</a></li>
+</ul>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div  class="small-12 medium-6 columns columns" style="margin: 0;" >
+<div class="tile">
+<div class="t-body tb-padding"  style="padding:0;">
+<div class="animated_box" style="background-image: linear-gradient(40deg, #ff4b4b, #fff 30px); border-bottom-left-radius: 5px; padding: 7px 23px;">
+<h4>                       
+<div class="right c100 p0 small pourcent_0">
+<span style="background: url(IMG/logo/rubon70.svg?1637496509) no-repeat bottom; background-size:contain; height: 24px; margin-top: 12px;" class="gras">0%</span>
+<div class="slice">
+<div class="bar"></div>
+<div class="fill"></div>
+</div>
+</div>            
+<a href="en/Challenges/Realist/" title="Realistic challenges.">Realist</a>
+</h4>
+<span class="gris">
+<b>0</b>&nbsp;Points<br/>
+<b>0</b>&nbsp;/&nbsp;62
+</span>
+<ul class="txs" style="margin: 10px 0px 10px 10px">
+<li><a class=" rouge" href="en/Challenges/Realist/It-happens-sometimes-93" title="10 Points"> x&nbsp;It happens, sometimes</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/End-Droid" title="15 Points"> x&nbsp;End Droid</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Windows-KerbeRoast" title="15 Points"> x&nbsp;Windows - KerbeRoast</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/ComCyber-Challenge" title="20 Points"> x&nbsp;ComCyber - Challenge</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/P0wn3d" title="20 Points"> x&nbsp;P0wn3d</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Windows-ASRepRoast" title="20 Points"> x&nbsp;Windows - ASRepRoast</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Windows-Group-Policy-Preferences-Passwords" title="20 Points"> x&nbsp;Windows - Group Policy Preferences Passwords</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/The-h-ckers-l4b" title="25 Points"> x&nbsp;The h@ckers l4b</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Windows-ZeroLogon" title="25 Points"> x&nbsp;Windows - ZeroLogon</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Neonazi-inside-52" title="30 Points"> x&nbsp;Neonazi inside</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Windows-krbtgt-history" title="30 Points"> x&nbsp;Windows - krbtgt history</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Windows-sAMAccountName-spoofing" title="30 Points"> x&nbsp;Windows - sAMAccountName spoofing</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Mersenne-with-2" title="35 Points"> x&nbsp;Mersenne with 2</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Bash-Awk-netstat-parsing" title="40 Points"> x&nbsp;Bash/Awk - netstat parsing</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Breaking-Root-Me-like-it-s-2020" title="40 Points"> x&nbsp;Breaking Root-Me like it’s 2020</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/PyRat-Auction-83" title="40 Points"> x&nbsp;PyRat Auction</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Root-them" title="40 Points"> x&nbsp;Root them</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/IPBX-call-me-maybe" title="45 Points"> x&nbsp;IPBX - call me maybe</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Marabout" title="45 Points"> x&nbsp;Marabout</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Root-We" title="45 Points"> x&nbsp;Root-We</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Starbug-Bounty" title="45 Points"> x&nbsp;Starbug Bounty</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Ultra-Upload" title="45 Points"> x&nbsp;Ultra Upload</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Well-known" title="45 Points"> x&nbsp;Well-known</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/A-bittersweet-shellfony" title="50 Points"> x&nbsp;A bittersweet shellfony</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Bash-System-Disaster" title="50 Points"> x&nbsp;Bash - System Disaster</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Django-unchained" title="50 Points"> x&nbsp;Django unchained</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Imagick" title="50 Points"> x&nbsp;Imagick</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/MALab" title="50 Points"> x&nbsp;MALab</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/SSHocker" title="50 Points"> x&nbsp;SSHocker</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Web-TV" title="50 Points"> x&nbsp;Web TV</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/DasBox1-Rififi-in-the-lizardmen" title="55 Points"> x&nbsp;DasBox1&nbsp;: Rififi in the lizardmen</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/SamBox-v2" title="55 Points"> x&nbsp;SamBox v2</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/SamCMS" title="55 Points"> x&nbsp;SamCMS</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Android-Shady-VPN" title="60 Points"> x&nbsp;Android - Shady VPN</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/BBQ-Factory-First-Flirt" title="60 Points"> x&nbsp;BBQ Factory - First Flirt</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Extractor" title="60 Points"> x&nbsp;Extractor</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Getting-root-Over-it" title="60 Points"> x&nbsp;Getting root Over it&nbsp;!</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/reQUACKier" title="60 Points"> x&nbsp;reQUACKier</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Texode-2817" title="60 Points"> x&nbsp;Texode</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/BBQ-Factory-Back-To-The-Grill" title="70 Points"> x&nbsp;BBQ Factory - Back To The Grill</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/In-Your-Kubernetass" title="70 Points"> x&nbsp;In Your Kubernetass</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/DjangocatZ" title="70 Points"> x&nbsp;DjangocatZ</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Red-Pills" title="70 Points"> x&nbsp;Red Pills</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Root-Me-for-real" title="70 Points"> x&nbsp;Root Me, for real</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/SamBox-v1" title="70 Points"> x&nbsp;SamBox v1</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/SAP-Pentest-007" title="70 Points"> x&nbsp;SAP Pentest 007</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/VPN-Provider" title="70 Points"> x&nbsp;VPN Provider</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Crypto-Secure-431" title="80 Points"> x&nbsp;Crypto Secure</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Bozobe-Hospital" title="80 Points"> x&nbsp;Bozobe Hospital</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/SamBox-v3" title="80 Points"> x&nbsp;SamBox v3</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/ARM-FTP-Box" title="90 Points"> x&nbsp;ARM FTP Box</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Bohemian-RhapC2" title="90 Points"> x&nbsp;Bohemian RhapC2</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/I-m-a-Bl4ck-H4t" title="90 Points"> x&nbsp;I&#8217;m a Bl4ck H4t</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/SAP-Pentest-000" title="90 Points"> x&nbsp;SAP Pentest 000</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Texode-Back" title="90 Points"> x&nbsp;Texode Back</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Bluebox-2-Pentest" title="100 Points"> x&nbsp;Bluebox 2 - Pentest</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Nodeful" title="100 Points"> x&nbsp;Nodeful</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Matrix-terminal" title="105 Points"> x&nbsp;Matrix terminal</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Bluebox-Pentest" title="110 Points"> x&nbsp;Bluebox - Pentest</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/C-for-C-cure" title="110 Points"> x&nbsp;C for C-cure</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/Highway-to-shell" title="120 Points"> x&nbsp;Highway to shell</a></li>
+<li><a class=" rouge" href="en/Challenges/Realist/SamBox-v4" title="140 Points"> x&nbsp;SamBox v4</a></li>
+</ul>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+<div  class="small-12 medium-6 columns columns" style="margin: 0;" >
+<div class="tile">
+<div class="t-body tb-padding"  style="padding:0;">
+<div class="animated_box" style="background-image: linear-gradient(40deg, #ff4b4b, #fff 30px); border-bottom-left-radius: 5px; padding: 7px 23px;">
+<h4>                       
+<div class="right c100 p0 small pourcent_0">
+<span style="background: url(IMG/logo/rubon182.svg?1637496499) no-repeat bottom; background-size:contain; height: 24px; margin-top: 12px;" class="gras">0%</span>
+<div class="slice">
+<div class="bar"></div>
+<div class="fill"></div>
+</div>
+</div>            
+<a href="en/Challenges/Network/" title="Investigate captured traffic, network services and perform packet analysis">Network</a>
+</h4>
+<span class="gris">
+<b>0</b>&nbsp;Points<br/>
+<b>0</b>&nbsp;/&nbsp;35
+</span>
+<ul class="txs" style="margin: 10px 0px 10px 10px">
+<li><a class=" rouge" href="en/Challenges/Network/FTP-authentication" title="5 Points"> x&nbsp;FTP - authentication</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/TELNET-authentication" title="5 Points"> x&nbsp;TELNET - authentication</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/ETHERNET-frame" title="10 Points"> x&nbsp;ETHERNET - frame</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/Kerberos-Authentication" title="10 Points"> x&nbsp;Kerberos - Authentication</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/NTLM-Authentication" title="10 Points"> x&nbsp;NTLM - Authentication</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/Twitter-authentication-101" title="15 Points"> x&nbsp;Twitter authentication</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/Bluetooth-Unknown-file" title="15 Points"> x&nbsp;Bluetooth - Unknown file</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/CISCO-password" title="15 Points"> x&nbsp;CISCO - password</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/DNS-zone-transfert" title="15 Points"> x&nbsp;DNS - zone transfert</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/IP-Time-To-Live" title="15 Points"> x&nbsp;IP - Time To Live</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/LDAP-null-bind" title="15 Points"> x&nbsp;LDAP - null bind</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/OSPF-Authentication" title="15 Points"> x&nbsp;OSPF - Authentication</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/POP-APOP" title="15 Points"> x&nbsp;POP - APOP</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/RF-AM-Transmission" title="15 Points"> x&nbsp;RF - AM Transmission</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/Data-extraction" title="20 Points"> x&nbsp;Data extraction</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/RF-FM-Transmission" title="20 Points"> x&nbsp;RF - FM Transmission</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/RF-Key-Fixed-Code" title="20 Points"> x&nbsp;RF - Key Fixed Code</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/SIP-authentication-103" title="20 Points"> x&nbsp;SIP - authentication</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/ETHERNET-Patched-transmission" title="25 Points"> x&nbsp;ETHERNET - Patched transmission </a></li>
+<li><a class=" rouge" href="en/Challenges/Network/Global-System-Traffic-for-Mobile-communication-61" title="25 Points"> x&nbsp;Global System Traffic for Mobile communication</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/HTTP-DNS-Rebinding" title="30 Points"> x&nbsp;HTTP - DNS Rebinding</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/SSL-HTTP-exchange" title="30 Points"> x&nbsp;SSL - HTTP exchange</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/Netfilter-common-mistakes" title="35 Points"> x&nbsp;Netfilter - common mistakes</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/SNMP-Authentification" title="35 Points"> x&nbsp;SNMP - Authentification</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/Wired-Equivalent-Privacy" title="35 Points"> x&nbsp;Wired Equivalent Privacy</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/ICMP-payload-107" title="40 Points"> x&nbsp;ICMP payload</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/Analog-video" title="40 Points"> x&nbsp;Analog video</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/ARP-Spoofing-Active-listening" title="45 Points"> x&nbsp;ARP Spoofing - Active listening</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/XMPP-authentication-197" title="45 Points"> x&nbsp;XMPP - authentication</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/RF-Satellite-transmission" title="50 Points"> x&nbsp;RF - Satellite transmission </a></li>
+<li><a class=" rouge" href="en/Challenges/Network/WPA2-Entreprise" title="50 Points"> x&nbsp;WPA2 - Enterprise</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/ARP-Spoofing-The-man-in-the-middle" title="55 Points"> x&nbsp;ARP Spoofing - The man in the middle</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/RF-L-Band" title="55 Points"> x&nbsp;RF - L Band</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/RIPv1-no-authentication" title="55 Points"> x&nbsp;RIPv1 - no authentication</a></li>
+<li><a class=" rouge" href="en/Challenges/Network/WPA3-SAE" title="90 Points"> x&nbsp;WPA3 - SAE</a></li>
+</ul>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div  class="small-12 medium-6 columns columns" style="margin: 0;" >
+<div class="tile">
+<div class="t-body tb-padding"  style="padding:0;">
+<div class="animated_box" style="background-image: linear-gradient(40deg, #ff9c70, #fff 30px); border-bottom-left-radius: 5px; padding: 7px 23px;">
+<h4>                       
+<div class="right c100 p21 small pourcent_20">
+<span style="background: url(IMG/logo/rubon67.svg?1637496507) no-repeat bottom; background-size:contain; height: 24px; margin-top: 12px;" class="gras">21%</span>
+<div class="slice">
+<div class="bar"></div>
+<div class="fill"></div>
+</div>
+</div>            
+<a href="en/Challenges/Steganography/" title="The art of hiding information in a document.">Steganography</a>
+</h4>
+<span class="gris">
+<b>45</b>&nbsp;Points<br/>
+<b>5</b>&nbsp;/&nbsp;24
+</span>
+<ul class="txs" style="margin: 10px 0px 10px 10px">
+<li><a class=" vert" href="en/Challenges/Steganography/EXIF-Metadata" title="5 Points"> o&nbsp;EXIF - Metadata</a></li>
+<li><a class=" vert" href="en/Challenges/Steganography/Dot-and-next-line" title="10 Points"> o&nbsp;Dot and next line</a></li>
+<li><a class=" vert" href="en/Challenges/Steganography/Steganomobile" title="10 Points"> o&nbsp;Steganomobile</a></li>
+<li><a class=" vert" href="en/Challenges/Steganography/Twitter-Secret-Messages" title="10 Points"> o&nbsp;Twitter Secret Messages</a></li>
+<li><a class=" vert" href="en/Challenges/Steganography/TXT-George-and-Alfred" title="10 Points"> o&nbsp;TXT - George and Alfred</a></li>
+<li><a class=" rouge" href="en/Challenges/Steganography/WAV-Noise-analysis" title="10 Points"> x&nbsp;WAV - Noise analysis</a></li>
+<li><a class=" rouge" href="en/Challenges/Steganography/Poem-from-Space" title="15 Points"> x&nbsp;Poem from Space</a></li>
+<li><a class=" rouge" href="en/Challenges/Steganography/Yellow-dots" title="15 Points"> x&nbsp;Yellow dots</a></li>
+<li><a class=" rouge" href="en/Challenges/Steganography/EXIF-Thumbnail" title="20 Points"> x&nbsp;EXIF - Thumbnail</a></li>
+<li><a class=" rouge" href="en/Challenges/Steganography/Mimic-Dummy-sight" title="20 Points"> x&nbsp;Mimic - Dummy sight</a></li>
+<li><a class=" rouge" href="en/Challenges/Steganography/WAV-Spectral-analysis" title="20 Points"> x&nbsp;WAV - Spectral analysis</a></li>
+<li><a class=" rouge" href="en/Challenges/Steganography/APNG-Just-A-PNG" title="25 Points"> x&nbsp;APNG - Just A PNG</a></li>
+<li><a class=" rouge" href="en/Challenges/Steganography/Crypt-art" title="25 Points"> x&nbsp;Crypt-art</a></li>
+<li><a class=" rouge" href="en/Challenges/Steganography/ELF-x64-Duality" title="25 Points"> x&nbsp;ELF x64 - Duality</a></li>
+<li><a class=" rouge" href="en/Challenges/Steganography/PDF-Embedded" title="25 Points"> x&nbsp;PDF - Embedded</a></li>
+<li><a class=" rouge" href="en/Challenges/Steganography/Genius-ID" title="30 Points"> x&nbsp;Genius ID</a></li>
+<li><a class=" rouge" href="en/Challenges/Steganography/Kitty-spy" title="30 Points"> x&nbsp;Kitty spy</a></li>
+<li><a class=" rouge" href="en/Challenges/Steganography/PNG-Least-Significant-Bit" title="30 Points"> x&nbsp;PNG - Least Significant Bit</a></li>
+<li><a class=" rouge" href="en/Challenges/Steganography/PNG-Pixel-Indicator-Technique" title="30 Points"> x&nbsp;PNG - Pixel Indicator Technique</a></li>
+<li><a class=" rouge" href="en/Challenges/Steganography/PNG-Pixel-Value-Differencing" title="30 Points"> x&nbsp;PNG - Pixel Value Differencing</a></li>
+<li><a class=" rouge" href="en/Challenges/Steganography/Angecryption" title="35 Points"> x&nbsp;Angecryption</a></li>
+<li><a class=" rouge" href="en/Challenges/Steganography/Base-Jumper" title="35 Points"> x&nbsp;Base Jumper</a></li>
+<li><a class=" rouge" href="en/Challenges/Steganography/Hide-and-seek" title="40 Points"> x&nbsp;Hide and seek</a></li>
+<li><a class=" rouge" href="en/Challenges/Steganography/PNG-EMD" title="45 Points"> x&nbsp;PNG - EMD</a></li>
+</ul>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+<div  class="small-12 medium-6 columns columns" style="margin: 0;" >
+<div class="tile">
+<div class="t-body tb-padding"  style="padding:0;">
+<div class="animated_box" style="background-image: linear-gradient(40deg, #ff4b4b, #fff 30px); border-bottom-left-radius: 5px; padding: 7px 23px;">
+<h4>                       
+<div class="right c100 p2 small pourcent_0">
+<span style="background: url(IMG/logo/rubon16.svg?1637496498) no-repeat bottom; background-size:contain; height: 24px; margin-top: 12px;" class="gras">2%</span>
+<div class="slice">
+<div class="bar"></div>
+<div class="fill"></div>
+</div>
+</div>            
+<a href="en/Challenges/Web-Client/" title="Client-side technologies implemented in the web browser">Web - Client</a>
+</h4>
+<span class="gris">
+<b>5</b>&nbsp;Points<br/>
+<b>1</b>&nbsp;/&nbsp;42
+</span>
+<ul class="txs" style="margin: 10px 0px 10px 10px">
+<li><a class=" vert" href="en/Challenges/Web-Client/HTML-disabled-buttons" title="5 Points"> o&nbsp;HTML - disabled buttons</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/Javascript-Authentication" title="5 Points"> x&nbsp;Javascript - Authentication</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/Javascript-Source" title="5 Points"> x&nbsp;Javascript - Source</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/Javascript-Authentication-2" title="10 Points"> x&nbsp;Javascript - Authentication 2</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/Javascript-Obfuscation-1" title="10 Points"> x&nbsp;Javascript - Obfuscation 1</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/Javascript-Obfuscation-2" title="10 Points"> x&nbsp;Javascript - Obfuscation 2</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/Javascript-Native-code" title="15 Points"> x&nbsp;Javascript - Native code</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/Javascript-Webpack" title="15 Points"> x&nbsp;Javascript - Webpack</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/Javascript-Obfuscation-3" title="30 Points"> x&nbsp;Javascript - Obfuscation 3</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/XSS-Stored-1" title="30 Points"> x&nbsp;XSS - Stored 1</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/AST-Deobfuscation" title="35 Points"> x&nbsp;AST - Deobfuscation</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/CSP-Bypass-Inline-code" title="35 Points"> x&nbsp;CSP Bypass - Inline code</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/CSP-Bypass-Nonce-2" title="35 Points"> x&nbsp;CSP Bypass - Nonce 2</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/CSRF-0-protection" title="35 Points"> x&nbsp;CSRF - 0 protection</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/Web-Socket-0-protection" title="35 Points"> x&nbsp;Web Socket - 0 protection</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/XSS-DOM-Based-Introduction" title="35 Points"> x&nbsp;XSS DOM Based - Introduction</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/Flash-Authentication" title="40 Points"> x&nbsp;Flash - Authentication</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/XSS-DOM-Based-AngularJS" title="40 Points"> x&nbsp;XSS DOM Based - AngularJS</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/XSS-DOM-Based-Eval" title="40 Points"> x&nbsp;XSS DOM Based - Eval</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/CSP-Bypass-Dangling-markup" title="45 Points"> x&nbsp;CSP Bypass - Dangling markup</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/CSP-Bypass-JSONP" title="45 Points"> x&nbsp;CSP Bypass - JSONP</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/CSRF-token-bypass" title="45 Points"> x&nbsp;CSRF - token bypass</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/XSS-Reflected" title="45 Points"> x&nbsp;XSS - Reflected</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/CSP-Bypass-Dangling-markup-2" title="50 Points"> x&nbsp;CSP Bypass - Dangling markup 2</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/CSP-Bypass-Nonce" title="50 Points"> x&nbsp;CSP Bypass - Nonce</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/CSS-Exfiltration" title="50 Points"> x&nbsp;CSS - Exfiltration</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/Javascript-Obfuscation-4" title="50 Points"> x&nbsp;Javascript - Obfuscation 4</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/Relative-Path-Overwrite" title="50 Points"> x&nbsp;Relative Path Overwrite</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/XSS-Stored-2" title="50 Points"> x&nbsp;XSS - Stored 2</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/XSS-DOM-Based-Filters-Bypass" title="50 Points"> x&nbsp;XSS DOM Based - Filters Bypass</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/Self-XSS-DOM-Secrets" title="55 Points"> x&nbsp;Self XSS - DOM Secrets</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/CSPT-The-Ruler" title="60 Points"> x&nbsp;CSPT - The Ruler</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/DOM-Clobbering" title="60 Points"> x&nbsp;DOM Clobbering</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/Javascript-Obfuscation-6" title="60 Points"> x&nbsp;Javascript - Obfuscation 6</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/Self-XSS-Race-Condition" title="60 Points"> x&nbsp;Self XSS - Race Condition</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/Browser-bfcache-disk-cache" title="65 Points"> x&nbsp;Browser - bfcache / disk cache</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/HTTP-Response-Splitting" title="70 Points"> x&nbsp;HTTP Response Splitting</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/Javascript-Obfuscation-5" title="70 Points"> x&nbsp;Javascript - Obfuscation 5</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/XS-Leaks" title="75 Points"> x&nbsp;XS Leaks</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/XSS-Stored-filter-bypass" title="80 Points"> x&nbsp;XSS - Stored - filter bypass</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/XSS-DOM-Based" title="85 Points"> x&nbsp;XSS - DOM Based</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Client/Same-Origin-Method-Execution" title="90 Points"> x&nbsp;Same Origin Method Execution</a></li>
+</ul>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div  class="small-12 medium-6 columns columns" style="margin: 0;" >
+<div class="tile">
+<div class="t-body tb-padding"  style="padding:0;">
+<div class="animated_box" style="background-image: linear-gradient(40deg, #ff4b4b, #fff 30px); border-bottom-left-radius: 5px; padding: 7px 23px;">
+<h4>                       
+<div class="right c100 p7 small pourcent_0">
+<span style="background: url(IMG/logo/rubon68.svg?1637496507) no-repeat bottom; background-size:contain; height: 24px; margin-top: 12px;" class="gras">7%</span>
+<div class="slice">
+<div class="bar"></div>
+<div class="fill"></div>
+</div>
+</div>            
+<a href="en/Challenges/Web-Server/" title="Discover the mechanisms, protocols and technologies used on the Internet and learn to abuse them!">Web - Server</a>
+</h4>
+<span class="gris">
+<b>85</b>&nbsp;Points<br/>
+<b>7</b>&nbsp;/&nbsp;97
+</span>
+<ul class="txs" style="margin: 10px 0px 10px 10px">
+<li><a class=" vert" href="en/Challenges/Web-Server/HTML-Source-code" title="5 Points"> o&nbsp;HTML - Source code</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/HTTP-IP-restriction-bypass" title="10 Points"> x&nbsp;HTTP - IP restriction bypass</a></li>
+<li><a class=" vert" href="en/Challenges/Web-Server/HTTP-Open-redirect" title="10 Points"> o&nbsp;HTTP - Open redirect</a></li>
+<li><a class=" vert" href="en/Challenges/Web-Server/HTTP-User-agent" title="10 Points"> o&nbsp;HTTP - User-agent</a></li>
+<li><a class=" vert" href="en/Challenges/Web-Server/Weak-password" title="10 Points"> o&nbsp;Weak password</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/PHP-Command-injection" title="10 Points"> x&nbsp;PHP - Command injection</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/API-Broken-Access" title="15 Points"> x&nbsp;API - Broken Access</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/Backup-file" title="15 Points"> x&nbsp;Backup file</a></li>
+<li><a class=" vert" href="en/Challenges/Web-Server/HTTP-Directory-indexing" title="15 Points"> o&nbsp;HTTP - Directory indexing</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/HTTP-Headers" title="15 Points"> x&nbsp;HTTP - Headers</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/HTTP-POST" title="15 Points"> x&nbsp;HTTP - POST</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/HTTP-Improper-redirect" title="15 Points"> x&nbsp;HTTP - Improper redirect</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/HTTP-verb-tampering" title="15 Points"> x&nbsp;HTTP - Verb tampering</a></li>
+<li><a class=" vert" href="en/Challenges/Web-Server/Install-files" title="15 Points"> o&nbsp;Install files</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/Nginx-Alias-Misconfiguration" title="15 Points"> x&nbsp;Nginx - Alias Misconfiguration</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/Nginx-Root-Location-Misconfiguration" title="15 Points"> x&nbsp;Nginx - Root Location Misconfiguration</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/API-Mass-Assignment" title="20 Points"> x&nbsp;API - Mass Assignment</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/CRLF" title="20 Points"> x&nbsp;CRLF</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/File-upload-Double-extensions" title="20 Points"> x&nbsp;File upload - Double extensions</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/File-upload-MIME-type" title="20 Points"> x&nbsp;File upload - MIME type</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/Flask-Unsecure-session" title="20 Points"> x&nbsp;Flask - Unsecure session</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/GraphQL-Introspection" title="20 Points"> x&nbsp;GraphQL - Introspection</a></li>
+<li><a class=" vert" href="en/Challenges/Web-Server/HTTP-Cookies" title="20 Points"> o&nbsp;HTTP - Cookies</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/Insecure-Code-Management" title="20 Points"> x&nbsp;Insecure Code Management</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/JWT-Introduction" title="20 Points"> x&nbsp;JWT - Introduction</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/XSS-Server-Side" title="20 Points"> x&nbsp;XSS - Server Side</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/Directory-traversal" title="25 Points"> x&nbsp;Directory traversal</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/File-upload-Null-byte" title="25 Points"> x&nbsp;File upload - Null byte</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/JWT-Revoked-token" title="25 Points"> x&nbsp;JWT - Revoked token</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/JWT-Weak-secret" title="25 Points"> x&nbsp;JWT - Weak secret</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/JWT-Unsecure-File-Signature" title="25 Points"> x&nbsp;JWT - Unsecure File Signature</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/PHP-assert" title="25 Points"> x&nbsp;PHP - assert()</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/PHP-Apache-configuration" title="25 Points"> x&nbsp;PHP - Apache configuration</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/PHP-Filters" title="25 Points"> x&nbsp;PHP - Filters</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/PHP-register-globals" title="25 Points"> x&nbsp;PHP - register globals</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/PHP-Remote-Xdebug" title="25 Points"> x&nbsp;PHP - Remote Xdebug</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/Python-Server-side-Template-Injection-Introduction" title="25 Points"> x&nbsp;Python - Server-side Template Injection Introduction</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/File-upload-ZIP" title="30 Points"> x&nbsp;File upload - ZIP</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/Flask-Development-server" title="30 Points"> x&nbsp;Flask - Development server</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/GraphQL-Injection" title="30 Points"> x&nbsp;GraphQL - Injection</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/Command-injection-Filter-bypass" title="30 Points"> x&nbsp;Command injection - Filter bypass</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/Java-Server-side-Template-Injection" title="30 Points"> x&nbsp;Java - Server-side Template Injection</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/JWT-Public-key" title="30 Points"> x&nbsp;JWT - Public key</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/JWT-Header-Injection" title="30 Points"> x&nbsp;JWT - Header Injection</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/Local-File-Inclusion" title="30 Points"> x&nbsp;Local File Inclusion</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/Local-File-Inclusion-Double-encoding" title="30 Points"> x&nbsp;Local File Inclusion - Double encoding</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/Nginx-SSRF-Misconfiguration" title="30 Points"> x&nbsp;Nginx - SSRF Misconfiguration</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/Node-Eval" title="30 Points"> x&nbsp;Node - Eval</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/PHP-Loose-Comparison" title="30 Points"> x&nbsp;PHP - Loose Comparison</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/PHP-preg_replace" title="30 Points"> x&nbsp;PHP - preg_replace()</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/PHP-type-juggling" title="30 Points"> x&nbsp;PHP - type juggling</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/Remote-File-Inclusion" title="30 Points"> x&nbsp;Remote File Inclusion</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/Ruby-on-Rails-ransack" title="30 Points"> x&nbsp;Ruby on Rails - ransack</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/SQL-injection-authentication" title="30 Points"> x&nbsp;SQL injection - Authentication</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/SQL-injection-authentication-GBK" title="30 Points"> x&nbsp;SQL injection - Authentication - GBK</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/SQL-injection-String" title="30 Points"> x&nbsp;SQL injection - String</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/XSLT-Code-execution" title="30 Points"> x&nbsp;XSLT - Code execution</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/Elixir-EEx" title="35 Points"> x&nbsp;Elixir - EEx</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/JWT-Unsecure-Key-Handling" title="35 Points"> x&nbsp;JWT - Unsecure Key Handling</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/LDAP-injection-Authentication" title="35 Points"> x&nbsp;LDAP injection - Authentication</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/Node-Serialize" title="35 Points"> x&nbsp;Node - Serialize</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/NoSQL-injection-Authentication" title="35 Points"> x&nbsp;NoSQL injection - Authentication</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/PHP-Path-Truncation" title="35 Points"> x&nbsp;PHP - Path Truncation</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/PHP-Serialization" title="35 Points"> x&nbsp;PHP - Serialization</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/SQL-injection-Numeric" title="35 Points"> x&nbsp;SQL injection - Numeric</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/SQL-Injection-Routed" title="35 Points"> x&nbsp;SQL Injection - Routed</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/SQL-Truncation" title="35 Points"> x&nbsp;SQL Truncation</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/XML-External-Entity" title="35 Points"> x&nbsp;XML External Entity</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/XPath-injection-Authentication" title="35 Points"> x&nbsp;XPath injection - Authentication</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/Yaml-Deserialization" title="35 Points"> x&nbsp;Yaml - Deserialization</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/API-Broken-Access-2" title="40 Points"> x&nbsp;API - Broken Access 2</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/GraphQL-Backend-injection" title="40 Points"> x&nbsp;GraphQL - Backend injection</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/GraphQL-Mutation" title="40 Points"> x&nbsp;GraphQL - Mutation</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/Java-Spring-Boot" title="40 Points"> x&nbsp;Java - Spring Boot</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/Local-File-Inclusion-Wrappers" title="40 Points"> x&nbsp;Local File Inclusion - Wrappers</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/PHP-Eval" title="40 Points"> x&nbsp;PHP - Eval</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/PHP-Eval-Advanced-filters-bypass" title="40 Points"> x&nbsp;PHP - Eval - Advanced filters bypass</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/SQL-injection-Error" title="40 Points"> x&nbsp;SQL injection - Error</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/SQL-injection-Insert" title="40 Points"> x&nbsp;SQL injection - Insert</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/SQL-injection-File-reading" title="40 Points"> x&nbsp;SQL injection - File reading</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/XPath-injection-String" title="40 Points"> x&nbsp;XPath injection - String</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/File-upload-Polyglot" title="45 Points"> x&nbsp;File upload - Polyglot</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/NodeJS-Prototype-Pollution-Bypass" title="45 Points"> x&nbsp;NodeJS - Prototype Pollution Bypass</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/NoSQL-injection-Blind" title="45 Points"> x&nbsp;NoSQL injection - Blind</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/SQL-injection-Time-based" title="45 Points"> x&nbsp;SQL injection - Time based</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/Java-Custom-gadget-deserialization" title="50 Points"> x&nbsp;Java - Custom gadget deserialization</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/NodeJS-vm-escape" title="50 Points"> x&nbsp;NodeJS - vm escape</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/Server-Side-Request-Forgery" title="50 Points"> x&nbsp;Server Side Request Forgery</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/SQL-injection-Blind" title="50 Points"> x&nbsp;SQL injection - Blind</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/LDAP-injection-Blind" title="55 Points"> x&nbsp;LDAP injection - Blind</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/PHP-Unserialize-overflow" title="55 Points"> x&nbsp;PHP - Unserialize overflow</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/PHP-Unserialize-Pop-Chain" title="55 Points"> x&nbsp;PHP - Unserialize Pop Chain</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/SQL-Injection-Second-Order" title="55 Points"> x&nbsp;SQL Injection - Second Order</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/Python-dotenv" title="70 Points"> x&nbsp;Python - dotenv</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/Python-Blind-SSTI-Filters-Bypass" title="75 Points"> x&nbsp;Python - Blind SSTI Filters Bypass</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/XPath-injection-Blind" title="75 Points"> x&nbsp;XPath injection - Blind</a></li>
+<li><a class=" rouge" href="en/Challenges/Web-Server/SQL-injection-Filter-bypass" title="80 Points"> x&nbsp;SQL injection - Filter bypass</a></li>
+</ul>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+</div>        
+</div>
+</div><!--ajaxbloc-->                
+</main>
+<footer id="footer" role="contentinfo" itemscope itemtype="https://schema.org/WPFooter">
+<div class="text-center">
+<div class="columns small-12">
+<img src="IMG/logo/siteon0.svg?1637496509" class="vmiddle grayscale" alt="Root-Me" width="48" height="48"/>
+</div>
+<div class="columns small-12">
+<a class="gris2" title="Confidentiality" href="https://www.root-me.org?page=structure&amp;inc=page-confidentialite&amp;lang=en">Confidentiality</a>
+&nbsp;|&nbsp;
+<a class="gris2" title="Legal Disclaimer" href="https://www.root-me.org?page=structure&amp;inc=page-mentions_legales&amp;lang=en">Legal Disclaimer</a>
+&nbsp;|&nbsp;
+<a class="gris2" title="Terms of Service" href="https://www.root-me.org?page=structure&amp;inc=page-CGU&amp;lang=en">Terms of Service</a><br/>
+Root Me : Hacking and Information Security learning platform<br/>
+©&nbsp;2010&nbsp;-&nbsp;2026<br/>
+<hr/>
+</div>
+</div>
+<div class="text-center">
+<div class="small-10 large-3 small-centered columns">
+<div class="small-2 columns"><a href="https://www.twitch.tv/rootme" title="Twitch"><img src='squelettes/img/twitch.svg?1683788777' alt='Twitch' class='vmiddle grayscale grayscale_hoveroff' width='24' height='24' /></a></div>
+<div class="small-2 columns"><a href="https://www.youtube.com/channel/UCnvB1SJdVYv-1zkByuYM73g" title="Youtube"><img src='squelettes/img/youtube.svg?1683788771' alt='Youtube' class='vmiddle grayscale grayscale_hoveroff' width='24' height='24' /></a></div>
+<div class="small-2 columns"><a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fwww.root-me.org%2F&region=follow_link&screen_name=rootme_org&tw_p=followbutton" title="Twitter"><img src='squelettes/img/twitter.svg?1573023931' alt='Twitter' class='vmiddle grayscale grayscale_hoveroff' width='24' height='24' /></a></div>
+<div class="small-2 columns"><a href="https://fr.linkedin.com/company/root-me-pro" title="Linkedin"><img src='squelettes/img/linkedin.svg?1573023925' alt='Linkedin' class='vmiddle grayscale grayscale_hoveroff' width='24' height='24' /></a></div>
+<div class="small-2 columns"><a href="https://www.root-me.org?page=flux_rss&amp;lang=en" title="Dynamic Stream"><img src='squelettes/img/rss.svg?1573023935' alt='Dynamic Stream' class='vmiddle grayscale grayscale_hoveroff' width='24' height='24' /></a></div>
+<div class="small-2 columns"><a href="https://discord.gg/XejsBJdUch" title="Discord"><img src='squelettes/img/discord.svg?1640079279' alt='Discord' class='vmiddle grayscale grayscale_hoveroff' width='24' height='24' /></a></div>
+</div>
+</div>
+</footer>        </div>
+</div>
+</div>
+</body>
+</html>
