@@ -1,6 +1,7 @@
 import asyncio
 import discord
 import os
+import re
 import aiohttp
 from discord.ext import commands
 from dotenv import load_dotenv
@@ -146,5 +147,73 @@ async def ch(ctx, username: str = "h4n13"):
     embed.set_thumbnail(url="https://cryptohack.org/static/img/logo_4.png")
 
     await loading_msg.edit(content="", embed=embed)
+
+@bot.command(aliases=['rm'])
+async def rootme(ctx, username: str):
+    url = f"https://www.root-me.org/{username}?inc=score&lang=en"
+    # headers = {
+    #     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    # }
+    
+    loading_msg = await ctx.send(f"🔍 Bé **{username}** giỏi qué 🫃")
+
+    try:
+        async with aiohttp.ClientSession() as session:
+            async with session.get(url) as response:
+                if response.status != 200:
+                    await loading_msg.edit(content=f"❌ Không tìm thấy bé **{username}**")
+                    return
+                
+                html_content = await response.text()
+    except Exception as e:
+        await loading_msg.edit(content=f"❌ Lỗi khi kết nối: {e}")
+        return
+
+    with open("sample_response.txt", 'wb') as f:
+        f.write(html_content.encode())
+    lines = html_content.split('\n')
+    score = "N/A"
+    solved = "N/A"
+    total = "N/A"
+    in_cracking = False
+
+    for line in lines:
+        # Find the specific Cracking header, excluding the sidebar menu (which has class="smenu")
+        if ">Cracking</a>" in line and "smenu" not in line:
+            print(line)
+            in_cracking = True
+            continue
+        
+        if in_cracking:
+            # Parse Score: <b>1920</b>&nbsp;Points<br/>
+            if "Points" in line and "<b>" in line:
+                print(line)
+                match = re.search(r'<b>(\d+)</b>', line)
+                if match:
+                    score = match.group(1)
+                    print(score)
+
+            # Parse Solves: <b>57</b>&nbsp;/&nbsp;70
+            elif "/" in line and "<b>" in line:
+                print(line)
+                try:
+                    match = re.search(r'<b>(\d+)</b>&nbsp;/&nbsp;(\d+)', line)
+                    if match:
+                        solved = match.group(1)
+                        total = match.group(2)
+                        print(f'{solved}/{total}')
+                        break # We found both parts, stop parsing
+                except:
+                    pass
+
+    if score != "N/A":
+        embed = discord.Embed(title=f"{username}", url=url, color=0xff4b4b)
+        embed.add_field(name="⭐ Score", value=f"{score}", inline=True)
+        embed.add_field(name="✅ Solves", value=f"{solved} / {total}", inline=True)
+        embed.set_thumbnail(url="https://www.root-me.org/squelettes/img/rblackGrand32.png")
+        
+        await loading_msg.edit(content="", embed=embed)
+    else:
+         await loading_msg.edit(content=f"❌ Không tìm thấy thông tin Cracking cho bé **{username}**")
 
 bot.run(TOKEN)

@@ -1,0 +1,51 @@
+/auteurs
+Parameters
+
+nom : Name
+statut : Status
+lang : Lang
+Example : BASH
+
+#!/bin/bash
+ 
+resp=$(curl -b "api_key=***" https://api.www.root-me.org/auteurs)
+echo "$resp" | sed -e "s/},/}}\n{/g" | grep id_auteur | head -3
+Download
+
+Output
+
+{"0":{"id_auteur":"1","nom":"g0uZ"}}
+{"1":{"id_auteur":"9","nom":"invit\u00e9"}}
+{"2":{"id_auteur":"61","nom":"1-vek"}}
+...
+Download
+
+/auteurs/id_auteur
+Example : PHP
+
+<?php
+ 
+$opts = array(
+  "http"=>array("method"=>"GET", "header"=>"Cookie: spip_session=***\r\n")
+);
+$context = stream_context_create($opts);
+$resp = file_get_contents("https://api.www.root-me.org/auteurs/1", false, $context);
+$data = json_decode($resp);
+echo(print_r($data));
+Download
+
+Output
+
+Array
+(
+    [nom] => g0uZ
+    [score] => 3165
+    [position] => 849
+    [challenges] => Array
+        (
+            [0] => Array
+                (
+                    [id_challenge] => 5
+                    [url_challenge] => http://dev.root-me.org/fr/Challenges/Web-Serveur/HTML
+    ...
+?>
