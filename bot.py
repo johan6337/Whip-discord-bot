@@ -3,6 +3,7 @@ import discord
 import os
 import re
 import aiohttp
+import json
 from discord.ext import commands
 from dotenv import load_dotenv
 import sys
@@ -257,6 +258,25 @@ async def pico(ctx, username: str):
         except (ValueError, TypeError):
             return (0, -1)
 
+    def is_user_id(value):
+        return re.fullmatch(r"\d+", value) is not None
+
+    def load_user_map(map_path):
+        if not os.path.exists(map_path):
+            return {}
+        try:
+            with open(map_path, "r", encoding="utf-8") as map_file:
+                data = json.load(map_file)
+            if isinstance(data, dict):
+                return {str(k).strip().lower(): str(v).strip() for k, v in data.items() if str(k).strip() and str(v).strip()}
+        except Exception:
+            return {}
+        return {}
+
+    def save_user_map(map_path, username_to_id):
+        with open(map_path, "w", encoding="utf-8") as map_file:
+            json.dump(username_to_id, map_file, ensure_ascii=False, indent=2)
+
     def format_category_status(stats_payload):
         if not isinstance(stats_payload, dict):
             return "N/A"
@@ -285,6 +305,7 @@ async def pico(ctx, username: str):
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
     }
     timeout = aiohttp.ClientTimeout(total=20)
+    user_map_path = os.path.join(os.path.dirname(__file__), "pico_user_map.json")
 
     if username.strip().lower() == "whip":
         list_path = os.path.join(os.path.dirname(__file__), "list_pico.txt")
@@ -293,6 +314,7 @@ async def pico(ctx, username: str):
 
         user_ids = [item.strip() for item in raw_list.replace("\n", ",").split(",") if item.strip()]
         entries = []
+        username_to_id = {}
 
         async with aiohttp.ClientSession(headers=headers, timeout=timeout) as session:
             for user_id in user_ids:
@@ -300,10 +322,14 @@ async def pico(ctx, username: str):
                 if not data:
                     entries.append({"name": user_id, "score": "N/A"})
                     continue
+                resolved_name = extract_name(data, user_id)
+                username_to_id[resolved_name.strip().lower()] = str(user_id).strip()
                 entries.append({
-                    "name": extract_name(data, user_id),
+                    "name": resolved_name,
                     "score": extract_score(data),
                 })
+
+        save_user_map(user_map_path, username_to_id)
 
         entries.sort(key=lambda item: score_sort_key(item["score"]), reverse=True)
 
@@ -318,8 +344,16 @@ async def pico(ctx, username: str):
         await loading_msg.edit(content="", embed=embed)
         return
 
+    raw_input = username.strip()
+    user_id = raw_input
+    if not is_user_id(raw_input):
+        username_to_id = load_user_map(user_map_path)
+        user_id = username_to_id.get(raw_input.lower())
+        if not user_id:
+            await loading_msg.edit(content=f"❌ Không tìm thấy username **{username}**. Hãy chạy `!pico whip` để cập nhật danh sách.")
+            return
+
     async with aiohttp.ClientSession(headers=headers, timeout=timeout) as session:
-        user_id = username.strip()
         data, category_stats = await asyncio.gather(
             fetch_participant(session, user_id),
             fetch_category_stats(session, user_id),
@@ -335,7 +369,7 @@ async def pico(ctx, username: str):
     }
     category_status_text = format_category_status(category_stats)
 
-    embed = discord.Embed(title=f"{entry['name']}", url=f"https://play.picoctf.org/api/participants/{username}/", color=0xF7D247)
+    embed = discord.Embed(title=f"{entry['name']}", url=f"https://play.picoctf.org/participants/{user_id}/", color=0xF7D247)
     embed.add_field(name="⭐ Score", value=f"{entry['score']}", inline=False)
     embed.add_field(name="📚 Category Status", value=category_status_text, inline=False)
     embed.set_thumbnail(url="https://play.picoctf.org/static/media/picoctf-logo.7f40395d.svg")
